@@ -1,0 +1,1293 @@
+ISO2,Country,Region,Income,Year,GDP,Population
+AL,Albania,Europe & Central Asia,Upper middle income,1996,3199641336,3168033
+AE,United Arab Emirates,Middle East & North Africa,High income,1996,73571233996,2571020
+AU,Australia,East Asia & Pacific,High income,1996,4.00303E+11,18311000
+AT,Austria,Europe & Central Asia,High income,1996,2.37251E+11,7959017
+BE,Belgium,Europe & Central Asia,High income,1996,2.81358E+11,10156637
+BG,Bulgaria,Europe & Central Asia,Upper middle income,1996,10109612142,8362826
+BR,Brazil,Latin America & Caribbean,Upper middle income,1996,8.50426E+11,164913306
+CA,Canada,North America,High income,1996,6.28546E+11,29671900
+CH,Switzerland,Europe & Central Asia,High income,1996,3.25386E+11,7071850
+CL,Chile,Latin America & Caribbean,High income,1996,78039572222,14497826
+CO,Colombia,Latin America & Caribbean,Upper middle income,1996,97160109278,38049038
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,1996,11818659720,3596732
+CZ,Czech Republic,Europe & Central Asia,High income,1996,66985765439,10315241
+DE,Germany,Europe & Central Asia,High income,1996,2.50367E+12,81914831
+DK,Denmark,Europe & Central Asia,High income,1996,1.87632E+11,5263074
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,1996,18241691857,8029113
+DZ,Algeria,Middle East & North Africa,Upper middle income,1996,46941496780,29411415
+ES,Spain,Europe & Central Asia,High income,1996,6.39488E+11,39889852
+EE,Estonia,Europe & Central Asia,High income,1996,4746109767,1415594
+FI,Finland,Europe & Central Asia,High income,1996,1.32099E+11,5124573
+FR,France,Europe & Central Asia,High income,1996,1.60568E+12,59753100
+GB,United Kingdom,Europe & Central Asia,High income,1996,1.40878E+12,58166950
+GE,Georgia,Europe & Central Asia,Lower middle income,1996,3072845727,4491699
+GR,Greece,Europe & Central Asia,High income,1996,1.45862E+11,10608800
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,1996,1.59717E+11,6435500
+HR,Croatia,Europe & Central Asia,High income,1996,23924115532,4557097
+HU,Hungary,Europe & Central Asia,High income,1996,47561591418,10311238
+ID,Indonesia,East Asia & Pacific,Lower middle income,1996,2.27715E+11,199914831
+IE,Ireland,Europe & Central Asia,High income,1996,75880632560,3637510
+IS,Iceland,Europe & Central Asia,High income,1996,7296621594,268916
+IL,Israel,Middle East & North Africa,High income,1996,1.09957E+11,5692000
+IT,Italy,Europe & Central Asia,High income,1996,1.32094E+12,56860281
+JO,Jordan,Middle East & North Africa,Upper middle income,1996,6928359238,4716373
+JP,Japan,East Asia & Pacific,High income,1996,4.83371E+12,125757000
+KR,"Korea, Rep.",East Asia & Pacific,High income,1996,5.98099E+11,45524681
+XK,Kosovo,Europe & Central Asia,Lower middle income,1996,1667724381,2059000
+LB,Lebanon,Middle East & North Africa,Upper middle income,1996,13690217333,3070960
+LT,Lithuania,Europe & Central Asia,High income,1996,8670033638,3601613
+LU,Luxembourg,Europe & Central Asia,High income,1996,21375442556,414225
+LV,Latvia,Europe & Central Asia,High income,1996,5970044666,2457222
+MO,"Macao SAR, China",East Asia & Pacific,High income,1996,7079033411,393567
+MD,Moldova,Europe & Central Asia,Lower middle income,1996,1695122174,3667748
+MX,Mexico,Latin America & Caribbean,Upper middle income,1996,4.10976E+11,95687452
+MK,FYROM,Europe & Central Asia,Upper middle income,1996,4651453634,1989443
+MT,Malta,Middle East & North Africa,High income,1996,3570271558,379905
+ME,Montenegro,Europe & Central Asia,Upper middle income,1996,964940039,611003
+NL,Netherlands,Europe & Central Asia,High income,1996,4.46736E+11,15530498
+NO,Norway,Europe & Central Asia,High income,1996,1.63518E+11,4381336
+NZ,New Zealand,East Asia & Pacific,High income,1996,70140835299,3732000
+PE,Peru,Latin America & Caribbean,Upper middle income,1996,55252414130,24441074
+PL,Poland,Europe & Central Asia,High income,1996,1.59954E+11,38624370
+PT,Portugal,Europe & Central Asia,High income,1996,1.2263E+11,10063945
+AR,Argentina,Latin America & Caribbean,High income,1996,2.7215E+11,35419682
+QA,Qatar,Middle East & North Africa,High income,1996,9059340385,522304
+CN,China,East Asia & Pacific,Upper middle income,1996,8.63747E+11,1217550000
+RO,Romania,Europe & Central Asia,Upper middle income,1996,37182938696,22619004
+RU,Russian Federation,Europe & Central Asia,Upper middle income,1996,3.91725E+11,148160042
+SG,Singapore,East Asia & Pacific,High income,1996,96403758865,3670704
+SK,Slovak Republic,Europe & Central Asia,High income,1996,27821913815,5373361
+SI,Slovenia,Europe & Central Asia,High income,1996,21480023017,1988628
+SE,Sweden,Europe & Central Asia,High income,1996,2.88104E+11,8840998
+TH,Thailand,East Asia & Pacific,Upper middle income,1996,1.83035E+11,60151472
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,1996,5625178930,1258364
+TN,Tunisia,Middle East & North Africa,Lower middle income,1996,19587322786,9256037
+TR,Turkey,Europe & Central Asia,Upper middle income,1996,1.81476E+11,59423208
+UY,Uruguay,Latin America & Caribbean,High income,1996,20515543039,3248035
+US,United States,North America,High income,1996,8.1002E+12,269394000
+VN,Vietnam,East Asia & Pacific,Lower middle income,1996,24657470575,76372719
+AL,Albania,Europe & Central Asia,Upper middle income,1997,2258513974,3148281
+AE,United Arab Emirates,Middle East & North Africa,High income,1997,78839008445,2700010
+AU,Australia,East Asia & Pacific,High income,1997,4.34568E+11,18517000
+AT,Austria,Europe & Central Asia,High income,1997,2.13802E+11,7968041
+BE,Belgium,Europe & Central Asia,High income,1997,2.54814E+11,10181245
+BG,Bulgaria,Europe & Central Asia,Upper middle income,1997,11170057300,8312068
+BR,Brazil,Latin America & Caribbean,Upper middle income,1997,8.832E+11,167545164
+CA,Canada,North America,High income,1997,6.52825E+11,29987200
+CH,Switzerland,Europe & Central Asia,High income,1997,2.86519E+11,7088906
+CL,Chile,Latin America & Caribbean,High income,1997,84263550829,14694835
+CO,Colombia,Latin America & Caribbean,Upper middle income,1997,1.06341E+11,38645411
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,1997,12552071488,3682725
+CZ,Czech Republic,Europe & Central Asia,High income,1997,61792161168,10304131
+DE,Germany,Europe & Central Asia,High income,1997,2.21869E+12,82034771
+DK,Denmark,Europe & Central Asia,High income,1997,1.73538E+11,5284991
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,1997,19842462997,8163472
+DZ,Algeria,Middle East & North Africa,Upper middle income,1997,48177862502,29886839
+ES,Spain,Europe & Central Asia,High income,1997,5.88692E+11,40057389
+EE,Estonia,Europe & Central Asia,High income,1997,5066240419,1399535
+FI,Finland,Europe & Central Asia,High income,1997,1.26833E+11,5139835
+FR,France,Europe & Central Asia,High income,1997,1.45288E+12,59964851
+GB,United Kingdom,Europe & Central Asia,High income,1997,1.55248E+12,58316954
+GE,Georgia,Europe & Central Asia,Lower middle income,1997,3480564158,4349913
+GR,Greece,Europe & Central Asia,High income,1997,1.43158E+11,10661259
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,1997,1.77353E+11,6489300
+HR,Croatia,Europe & Central Asia,High income,1997,23822087054,4534920
+HU,Hungary,Europe & Central Asia,High income,1997,47290180589,10290486
+ID,Indonesia,East Asia & Pacific,Lower middle income,1997,2.11072E+11,202826465
+IE,Ireland,Europe & Central Asia,High income,1997,82826146132,3674171
+IS,Iceland,Europe & Central Asia,High income,1997,7548912105,271128
+IL,Israel,Middle East & North Africa,High income,1997,1.14725E+11,5836000
+IT,Italy,Europe & Central Asia,High income,1997,1.23905E+12,56890372
+JO,Jordan,Middle East & North Africa,Upper middle income,1997,7246188575,4832267
+JP,Japan,East Asia & Pacific,High income,1997,4.41473E+12,126057000
+KR,"Korea, Rep.",East Asia & Pacific,High income,1997,5.57503E+11,45953580
+XK,Kosovo,Europe & Central Asia,Lower middle income,1997,1805918909,2086000
+LB,Lebanon,Middle East & North Africa,Upper middle income,1997,15751867489,3092670
+LT,Lithuania,Europe & Central Asia,High income,1997,10166201744,3575137
+LU,Luxembourg,Europe & Central Asia,High income,1997,19731912494,419450
+LV,Latvia,Europe & Central Asia,High income,1997,6478427826,2432851
+MO,"Macao SAR, China",East Asia & Pacific,High income,1997,7280612968,401564
+MD,Moldova,Europe & Central Asia,Lower middle income,1997,1930081169,3654208
+MX,Mexico,Latin America & Caribbean,Upper middle income,1997,5.00413E+11,97281739
+MK,FYROM,Europe & Central Asia,Upper middle income,1997,3928975904,1999599
+MT,Malta,Middle East & North Africa,High income,1997,3705372039,382791
+ME,Montenegro,Europe & Central Asia,Upper middle income,1997,1036148259,609520
+NL,Netherlands,Europe & Central Asia,High income,1997,4.14194E+11,15610650
+NO,Norway,Europe & Central Asia,High income,1997,1.61354E+11,4405157
+NZ,New Zealand,East Asia & Pacific,High income,1997,66074513018,3781300
+PE,Peru,Latin America & Caribbean,Upper middle income,1997,58147522523,24827406
+PL,Poland,Europe & Central Asia,High income,1997,1.59118E+11,38649660
+PT,Portugal,Europe & Central Asia,High income,1997,1.17046E+11,10108977
+AR,Argentina,Latin America & Caribbean,High income,1997,2.92859E+11,35833969
+QA,Qatar,Middle East & North Africa,High income,1997,11297802115,534608
+CN,China,East Asia & Pacific,Upper middle income,1997,9.61604E+11,1230075000
+RO,Romania,Europe & Central Asia,Upper middle income,1997,35838588170,22553978
+RU,Russian Federation,Europe & Central Asia,Upper middle income,1997,4.0684E+11,147915307
+SG,Singapore,East Asia & Pacific,High income,1997,99812094446,3796038
+SK,Slovak Republic,Europe & Central Asia,High income,1997,27660149541,5383291
+SI,Slovenia,Europe & Central Asia,High income,1997,20749140606,1985956
+SE,Sweden,Europe & Central Asia,High income,1997,2.64478E+11,8846062
+TH,Thailand,East Asia & Pacific,Upper middle income,1997,1.5018E+11,60863506
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,1997,5737751332,1260678
+TN,Tunisia,Middle East & North Africa,Lower middle income,1997,20746360430,9384152
+TR,Turkey,Europe & Central Asia,Upper middle income,1997,1.89835E+11,60372499
+UY,Uruguay,Latin America & Caribbean,High income,1997,23969823010,3271010
+US,United States,North America,High income,1997,8.60852E+12,272657000
+VN,Vietnam,East Asia & Pacific,Lower middle income,1997,26843700442,77453335
+AL,Albania,Europe & Central Asia,Upper middle income,1998,2545964541,3128530
+AE,United Arab Emirates,Middle East & North Africa,High income,1998,75674336283,2838145
+AU,Australia,East Asia & Pacific,High income,1998,3.98899E+11,18711000
+AT,Austria,Europe & Central Asia,High income,1998,2.1826E+11,7976789
+BE,Belgium,Europe & Central Asia,High income,1998,2.61456E+11,10203008
+BG,Bulgaria,Europe & Central Asia,Upper middle income,1998,14942172234,8256786
+BR,Brazil,Latin America & Caribbean,Upper middle income,1998,8.63723E+11,170170640
+CA,Canada,North America,High income,1998,6.31813E+11,30247900
+CH,Switzerland,Europe & Central Asia,High income,1998,2.95045E+11,7110001
+CL,Chile,Latin America & Caribbean,High income,1998,81577430181,14887756
+CO,Colombia,Latin America & Caribbean,Upper middle income,1998,98443739941,39234062
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,1998,13404179724,3767373
+CZ,Czech Republic,Europe & Central Asia,High income,1998,66490372105,10294373
+DE,Germany,Europe & Central Asia,High income,1998,2.21795E+12,82047195
+DK,Denmark,Europe & Central Asia,High income,1998,1.76992E+11,5304219
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,1998,21722110432,8296375
+DZ,Algeria,Middle East & North Africa,Upper middle income,1998,48187747529,30335732
+ES,Spain,Europe & Central Asia,High income,1998,6.17042E+11,40223509
+EE,Estonia,Europe & Central Asia,High income,1998,5617109245,1386156
+FI,Finland,Europe & Central Asia,High income,1998,1.33241E+11,5153498
+FR,France,Europe & Central Asia,High income,1998,1.50311E+12,60186288
+GB,United Kingdom,Europe & Central Asia,High income,1998,1.65868E+12,58487141
+GE,Georgia,Europe & Central Asia,Lower middle income,1998,3613500133,4243607
+GR,Greece,Europe & Central Asia,High income,1998,1.44428E+11,10720509
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,1998,1.68886E+11,6543700
+HR,Croatia,Europe & Central Asia,High income,1998,25432144400,4532135
+HU,Hungary,Europe & Central Asia,High income,1998,48770466839,10266570
+ID,Indonesia,East Asia & Pacific,Lower middle income,1998,95445547873,205715544
+IE,Ireland,Europe & Central Asia,High income,1998,90866305129,3712696
+IS,Iceland,Europe & Central Asia,High income,1998,8453704212,274047
+IL,Israel,Middle East & North Africa,High income,1998,1.15979E+11,5971000
+IT,Italy,Europe & Central Asia,High income,1998,1.26631E+12,56906744
+JO,Jordan,Middle East & North Africa,Upper middle income,1998,7912327362,4927912
+JP,Japan,East Asia & Pacific,High income,1998,4.09228E+12,126400000
+KR,"Korea, Rep.",East Asia & Pacific,High income,1998,3.74241E+11,46286503
+XK,Kosovo,Europe & Central Asia,Lower middle income,1998,1859964449,1966000
+LB,Lebanon,Middle East & North Africa,Upper middle income,1998,17341882348,3113951
+LT,Lithuania,Europe & Central Asia,High income,1998,11226325451,3549331
+LU,Luxembourg,Europe & Central Asia,High income,1998,20209122027,424700
+LV,Latvia,Europe & Central Asia,High income,1998,7298219129,2410019
+MO,"Macao SAR, China",East Asia & Pacific,High income,1998,6742367273,409837
+MD,Moldova,Europe & Central Asia,Lower middle income,1998,1698717505,3652732
+MX,Mexico,Latin America & Caribbean,Upper middle income,1998,5.26502E+11,98821456
+MK,FYROM,Europe & Central Asia,Upper middle income,1998,3756208791,2012057
+MT,Malta,Middle East & North Africa,High income,1998,3923637971,385287
+ME,Montenegro,Europe & Central Asia,Upper middle income,1998,1088412045,607662
+NL,Netherlands,Europe & Central Asia,High income,1998,4.32476E+11,15707209
+NO,Norway,Europe & Central Asia,High income,1998,1.54165E+11,4431464
+NZ,New Zealand,East Asia & Pacific,High income,1998,56227696195,3815000
+PE,Peru,Latin America & Caribbean,Upper middle income,1998,55501467877,25199748
+PL,Poland,Europe & Central Asia,High income,1998,1.74388E+11,38663481
+PT,Portugal,Europe & Central Asia,High income,1998,1.23757E+11,10160196
+AR,Argentina,Latin America & Caribbean,High income,1998,2.98948E+11,36241590
+QA,Qatar,Middle East & North Africa,High income,1998,10255495027,550430
+CN,China,East Asia & Pacific,Upper middle income,1998,1.02904E+12,1241935000
+RO,Romania,Europe & Central Asia,Upper middle income,1998,41976002704,22507344
+RU,Russian Federation,Europe & Central Asia,Upper middle income,1998,2.70955E+11,147670692
+SG,Singapore,East Asia & Pacific,High income,1998,85707636233,3927213
+SK,Slovak Republic,Europe & Central Asia,High income,1998,29901737039,5390516
+SI,Slovenia,Europe & Central Asia,High income,1998,22125435372,1981629
+SE,Sweden,Europe & Central Asia,High income,1998,2.63824E+11,8850974
+TH,Thailand,East Asia & Pacific,Upper middle income,1998,1.15796E+11,61597283
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,1998,6043694330,1262542
+TN,Tunisia,Middle East & North Africa,Lower middle income,1998,22079236834,9499395
+TR,Turkey,Europe & Central Asia,Upper middle income,1998,2.75769E+11,61329590
+UY,Uruguay,Latin America & Caribbean,High income,1998,25385928198,3292138
+US,United States,North America,High income,1998,9.08917E+12,275854000
+VN,Vietnam,East Asia & Pacific,Lower middle income,1998,27209602050,78452897
+AL,Albania,Europe & Central Asia,Upper middle income,1999,3235569273,3108778
+AE,United Arab Emirates,Middle East & North Africa,High income,1999,84445473111,2988162
+AU,Australia,East Asia & Pacific,High income,1999,3.88395E+11,18926000
+AT,Austria,Europe & Central Asia,High income,1999,2.17186E+11,7992324
+BE,Belgium,Europe & Central Asia,High income,1999,2.60202E+11,10226419
+BG,Bulgaria,Europe & Central Asia,Upper middle income,1999,13531969309,8210624
+BR,Brazil,Latin America & Caribbean,Upper middle income,1999,6.11835E+11,172759243
+CA,Canada,North America,High income,1999,6.76083E+11,30499200
+CH,Switzerland,Europe & Central Asia,High income,1999,2.89912E+11,7143991
+CL,Chile,Latin America & Caribbean,High income,1999,73923622616,15076952
+CO,Colombia,Latin America & Caribbean,Upper middle income,1999,86186158685,39819279
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,1999,14195623343,3848723
+CZ,Czech Republic,Europe & Central Asia,High income,1999,64867483193,10283860
+DE,Germany,Europe & Central Asia,High income,1999,2.19996E+12,82100243
+DK,Denmark,Europe & Central Asia,High income,1999,1.77965E+11,5321799
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,1999,22288540227,8429112
+DZ,Algeria,Middle East & North Africa,Upper middle income,1999,48640574567,30765613
+ES,Spain,Europe & Central Asia,High income,1999,6.33194E+11,40386875
+EE,Estonia,Europe & Central Asia,High income,1999,5726897998,1390244
+FI,Finland,Europe & Central Asia,High income,1999,1.35226E+11,5165474
+FR,France,Europe & Central Asia,High income,1999,1.49265E+12,60496718
+GB,United Kingdom,Europe & Central Asia,High income,1999,1.65443E+12,58682466
+GE,Georgia,Europe & Central Asia,Lower middle income,1999,2800024338,4157192
+GR,Greece,Europe & Central Asia,High income,1999,1.42541E+11,10761698
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,1999,1.65768E+11,6606500
+HR,Croatia,Europe & Central Asia,High income,1999,23386945603,4512597
+HU,Hungary,Europe & Central Asia,High income,1999,49170434391,10237530
+ID,Indonesia,East Asia & Pacific,Lower middle income,1999,1.40001E+11,208612556
+IE,Ireland,Europe & Central Asia,High income,1999,98691849563,3754786
+IS,Iceland,Europe & Central Asia,High income,1999,8917286036,277381
+IL,Israel,Middle East & North Africa,High income,1999,1.1719E+11,6125000
+IT,Italy,Europe & Central Asia,High income,1999,1.24856E+12,56916317
+JO,Jordan,Middle East & North Africa,Upper middle income,1999,8149106065,5014899
+JP,Japan,East Asia & Pacific,High income,1999,4.56208E+12,126631000
+KR,"Korea, Rep.",East Asia & Pacific,High income,1999,4.85248E+11,46616677
+XK,Kosovo,Europe & Central Asia,Lower middle income,1999,1763869399,1762000
+LB,Lebanon,Middle East & North Africa,Upper middle income,1999,17391056369,3156646
+LT,Lithuania,Europe & Central Asia,High income,1999,10972878636,3524238
+LU,Luxembourg,Europe & Central Asia,High income,1999,22235929043,430475
+LV,Latvia,Europe & Central Asia,High income,1999,7533187605,2390482
+MO,"Macao SAR, China",East Asia & Pacific,High income,1999,6490571704,418604
+MD,Moldova,Europe & Central Asia,Lower middle income,1999,1170782957,3647001
+MX,Mexico,Latin America & Caribbean,Upper middle income,1999,5.95934E+11,100300579
+MK,FYROM,Europe & Central Asia,Upper middle income,1999,3863743409,2024394
+MT,Malta,Middle East & North Africa,High income,1999,4127313818,387578
+ME,Montenegro,Europe & Central Asia,Upper middle income,1999,1031758647,606001
+NL,Netherlands,Europe & Central Asia,High income,1999,4.4287E+11,15812088
+NO,Norway,Europe & Central Asia,High income,1999,1.62286E+11,4461913
+NZ,New Zealand,East Asia & Pacific,High income,1999,58762260626,3835100
+PE,Peru,Latin America & Caribbean,Upper middle income,1999,50187324568,25561299
+PL,Poland,Europe & Central Asia,High income,1999,1.69718E+11,38660271
+PT,Portugal,Europe & Central Asia,High income,1999,1.27466E+11,10217828
+AR,Argentina,Latin America & Caribbean,High income,1999,2.8497E+11,36648068
+QA,Qatar,Middle East & North Africa,High income,1999,12393131868,569447
+CN,China,East Asia & Pacific,Upper middle income,1999,1.094E+12,1252735000
+RO,Romania,Europe & Central Asia,Upper middle income,1999,36183003978,22472040
+RU,Russian Federation,Europe & Central Asia,Upper middle income,1999,2.0127E+11,147214392
+SG,Singapore,East Asia & Pacific,High income,1999,86283126844,3958723
+SK,Slovak Republic,Europe & Central Asia,High income,1999,30020400137,5396020
+SI,Slovenia,Europe & Central Asia,High income,1999,22485337147,1983045
+SE,Sweden,Europe & Central Asia,High income,1999,2.70268E+11,8857874
+TH,Thailand,East Asia & Pacific,Upper middle income,1999,1.26669E+11,62306651
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,1999,6879683128,1264775
+TN,Tunisia,Middle East & North Africa,Lower middle income,1999,22943685719,9603742
+TR,Turkey,Europe & Central Asia,Upper middle income,1999,2.57885E+11,62287326
+UY,Uruguay,Latin America & Caribbean,High income,1999,23983945191,3309318
+US,United States,North America,High income,1999,9.71665E+12,279040000
+VN,Vietnam,East Asia & Pacific,Lower middle income,1999,28738937716,79391374
+AL,Albania,Europe & Central Asia,Upper middle income,2000,3480355258,3089027
+AE,United Arab Emirates,Middle East & North Africa,High income,2000,1.04337E+11,3154925
+AU,Australia,East Asia & Pacific,High income,2000,4.15034E+11,19153000
+AT,Austria,Europe & Central Asia,High income,2000,1.968E+11,8011566
+BE,Belgium,Europe & Central Asia,High income,2000,2.37905E+11,10251250
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2000,13153016531,8170172
+BR,Brazil,Latin America & Caribbean,Upper middle income,2000,6.55421E+11,175287587
+CA,Canada,North America,High income,2000,7.42293E+11,30769700
+CH,Switzerland,Europe & Central Asia,High income,2000,2.72055E+11,7184250
+CL,Chile,Latin America & Caribbean,High income,2000,77860932152,15262754
+CO,Colombia,Latin America & Caribbean,Upper middle income,2000,99886577331,40403958
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2000,14949514493,3925443
+CZ,Czech Republic,Europe & Central Asia,High income,2000,61649492817,10255063
+DE,Germany,Europe & Central Asia,High income,2000,1.94995E+12,82211508
+DK,Denmark,Europe & Central Asia,High income,2000,1.64159E+11,5339616
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2000,24305116729,8562622
+DZ,Algeria,Middle East & North Africa,Upper middle income,2000,54790245601,31183660
+ES,Spain,Europe & Central Asia,High income,2000,5.95403E+11,40567864
+EE,Estonia,Europe & Central Asia,High income,2000,5704173981,1396985
+FI,Finland,Europe & Central Asia,High income,2000,1.2554E+11,5176209
+FR,France,Europe & Central Asia,High income,2000,1.36225E+12,60912500
+GB,United Kingdom,Europe & Central Asia,High income,2000,1.64795E+12,58892514
+GE,Georgia,Europe & Central Asia,Lower middle income,2000,3057453468,4077131
+GR,Greece,Europe & Central Asia,High income,2000,1.30134E+11,10805808
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2000,1.71668E+11,6665000
+HR,Croatia,Europe & Central Asia,High income,2000,21774273832,4468302
+HU,Hungary,Europe & Central Asia,High income,2000,47310623887,10210971
+ID,Indonesia,East Asia & Pacific,Lower middle income,2000,1.65021E+11,211540429
+IE,Ireland,Europe & Central Asia,High income,2000,99853528653,3805174
+IS,Iceland,Europe & Central Asia,High income,2000,8927140438,281205
+IL,Israel,Middle East & North Africa,High income,2000,1.32339E+11,6289000
+IT,Italy,Europe & Central Asia,High income,2000,1.14176E+12,56942108
+JO,Jordan,Middle East & North Africa,Upper middle income,2000,8460424401,5103130
+JP,Japan,East Asia & Pacific,High income,2000,4.88752E+12,126843000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2000,5.61633E+11,47008111
+XK,Kosovo,Europe & Central Asia,Lower middle income,2000,1849196082,1700000
+LB,Lebanon,Middle East & North Africa,Upper middle income,2000,17260364842,3235366
+LT,Lithuania,Europe & Central Asia,High income,2000,11539211480,3499536
+LU,Luxembourg,Europe & Central Asia,High income,2000,21263514833,436300
+LV,Latvia,Europe & Central Asia,High income,2000,7937758980,2367550
+MO,"Macao SAR, China",East Asia & Pacific,High income,2000,6720492406,427979
+MD,Moldova,Europe & Central Asia,Lower middle income,2000,1288429392,3639592
+MX,Mexico,Latin America & Caribbean,Upper middle income,2000,7.07907E+11,101719673
+MK,FYROM,Europe & Central Asia,Upper middle income,2000,3772851420,2034819
+MT,Malta,Middle East & North Africa,High income,2000,4306192436,390087
+ME,Montenegro,Europe & Central Asia,Upper middle income,2000,997497719,604950
+NL,Netherlands,Europe & Central Asia,High income,2000,4.12807E+11,15925513
+NO,Norway,Europe & Central Asia,High income,2000,1.71316E+11,4490967
+NZ,New Zealand,East Asia & Pacific,High income,2000,52622842840,3857700
+PE,Peru,Latin America & Caribbean,Upper middle income,2000,51744749133,25914879
+PL,Poland,Europe & Central Asia,High income,2000,1.71886E+11,38258629
+PT,Portugal,Europe & Central Asia,High income,2000,1.18358E+11,10289898
+AR,Argentina,Latin America & Caribbean,High income,2000,2.84204E+11,37057452
+QA,Qatar,Middle East & North Africa,High income,2000,17759890110,592267
+CN,China,East Asia & Pacific,Upper middle income,2000,1.21135E+12,1262645000
+RO,Romania,Europe & Central Asia,Upper middle income,2000,37438527800,22442971
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2000,2.5971E+11,146596557
+SG,Singapore,East Asia & Pacific,High income,2000,95385274761,4027887
+SK,Slovak Republic,Europe & Central Asia,High income,2000,29114875622,5388720
+SI,Slovenia,Europe & Central Asia,High income,2000,20342201356,1988925
+SE,Sweden,Europe & Central Asia,High income,2000,2.59802E+11,8872109
+TH,Thailand,East Asia & Pacific,Upper middle income,2000,1.26392E+11,62958021
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2000,8154338233,1267984
+TN,Tunisia,Middle East & North Africa,Lower middle income,2000,21473188882,9699197
+TR,Turkey,Europe & Central Asia,Upper middle income,2000,2.7298E+11,63240121
+UY,Uruguay,Latin America & Caribbean,High income,2000,22823255802,3321245
+US,United States,North America,High income,2000,1.02848E+13,282162411
+VN,Vietnam,East Asia & Pacific,Lower middle income,2000,31172518403,80285562
+AL,Albania,Europe & Central Asia,Upper middle income,2001,3922100794,3060173
+AE,United Arab Emirates,Middle East & North Africa,High income,2001,1.03312E+11,3326032
+AU,Australia,East Asia & Pacific,High income,2001,3.78215E+11,19413000
+AT,Austria,Europe & Central Asia,High income,2001,1.98223E+11,8042293
+BE,Belgium,Europe & Central Asia,High income,2001,2.38556E+11,10286570
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2001,14075616789,8009142
+BR,Brazil,Latin America & Caribbean,Upper middle income,2001,5.59372E+11,177750670
+CA,Canada,North America,High income,2001,7.3638E+11,31081900
+CH,Switzerland,Europe & Central Asia,High income,2001,2.78631E+11,7229854
+CL,Chile,Latin America & Caribbean,High income,2001,70979923960,15444969
+CO,Colombia,Latin America & Caribbean,Upper middle income,2001,98203546156,40988909
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2001,15913363441,3996798
+CZ,Czech Republic,Europe & Central Asia,High income,2001,67523642262,10216605
+DE,Germany,Europe & Central Asia,High income,2001,1.95065E+12,82349925
+DK,Denmark,Europe & Central Asia,High income,2001,1.64791E+11,5358783
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2001,25599311449,8697126
+DZ,Algeria,Middle East & North Africa,Upper middle income,2001,54744714396,31592153
+ES,Spain,Europe & Central Asia,High income,2001,6.25976E+11,40850412
+EE,Estonia,Europe & Central Asia,High income,2001,6245069734,1388115
+FI,Finland,Europe & Central Asia,High income,2001,1.2925E+11,5188008
+FR,France,Europe & Central Asia,High income,2001,1.37647E+12,61357430
+GB,United Kingdom,Europe & Central Asia,High income,2001,1.62151E+12,59119673
+GE,Georgia,Europe & Central Asia,Lower middle income,2001,3219487752,4014373
+GR,Greece,Europe & Central Asia,High income,2001,1.36191E+11,10862132
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2001,1.69403E+11,6714300
+HR,Croatia,Europe & Central Asia,High income,2001,23289671101,4299642
+HU,Hungary,Europe & Central Asia,High income,2001,53821315066,10187576
+ID,Indonesia,East Asia & Pacific,Lower middle income,2001,1.60447E+11,214506502
+IE,Ireland,Europe & Central Asia,High income,2001,1.09134E+11,3866243
+IS,Iceland,Europe & Central Asia,High income,2001,8136345144,284968
+IL,Israel,Middle East & North Africa,High income,2001,1.31331E+11,6439000
+IT,Italy,Europe & Central Asia,High income,2001,1.16232E+12,56974100
+JO,Jordan,Middle East & North Africa,Upper middle income,2001,8975689845,5193482
+JP,Japan,East Asia & Pacific,High income,2001,4.30354E+12,127149000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2001,5.33052E+11,47370164
+XK,Kosovo,Europe & Central Asia,Lower middle income,2001,2416667355,1701154
+LB,Lebanon,Middle East & North Africa,Upper middle income,2001,17649751244,3359859
+LT,Lithuania,Europe & Central Asia,High income,2001,12306558476,3470818
+LU,Luxembourg,Europe & Central Asia,High income,2001,21272418792,441525
+LV,Latvia,Europe & Central Asia,High income,2001,8350252966,2337170
+MO,"Macao SAR, China",East Asia & Pacific,High income,2001,6811227983,438081
+MD,Moldova,Europe & Central Asia,Lower middle income,2001,1480673594,3631462
+MX,Mexico,Latin America & Caribbean,Upper middle income,2001,7.56706E+11,103067068
+MK,FYROM,Europe & Central Asia,Upper middle income,2001,3709637830,2042842
+MT,Malta,Middle East & North Africa,High income,2001,4331870648,393028
+ME,Montenegro,Europe & Central Asia,Upper middle income,2001,1159869246,607389
+NL,Netherlands,Europe & Central Asia,High income,2001,4.26574E+11,16046180
+NO,Norway,Europe & Central Asia,High income,2001,1.74003E+11,4513751
+NZ,New Zealand,East Asia & Pacific,High income,2001,53872425917,3880500
+PE,Peru,Latin America & Caribbean,Upper middle income,2001,52030158775,26261363
+PL,Poland,Europe & Central Asia,High income,2001,1.90521E+11,38248076
+PT,Portugal,Europe & Central Asia,High income,2001,1.21546E+11,10362722
+AR,Argentina,Latin America & Caribbean,High income,2001,2.68697E+11,37471509
+QA,Qatar,Middle East & North Africa,High income,2001,17538461538,616886
+CN,China,East Asia & Pacific,Upper middle income,2001,1.3394E+12,1271850000
+RO,Romania,Europe & Central Asia,Upper middle income,2001,40732785326,22131970
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2001,3.06602E+11,145976083
+SG,Singapore,East Asia & Pacific,High income,2001,89286208629,4138012
+SK,Slovak Republic,Europe & Central Asia,High income,2001,30703017450,5378867
+SI,Slovenia,Europe & Central Asia,High income,2001,20875387068,1992060
+SE,Sweden,Europe & Central Asia,High income,2001,2.39917E+11,8895960
+TH,Thailand,East Asia & Pacific,Upper middle income,2001,1.2142E+11,63543322
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2001,8824873259,1272380
+TN,Tunisia,Middle East & North Africa,Lower middle income,2001,22066101341,9785701
+TR,Turkey,Europe & Central Asia,Upper middle income,2001,2.09794E+11,64191474
+UY,Uruguay,Latin America & Caribbean,High income,2001,20898788417,3327103
+US,United States,North America,High income,2001,1.06218E+13,284968955
+VN,Vietnam,East Asia & Pacific,Lower middle income,2001,32685198735,81139919
+AL,Albania,Europe & Central Asia,Upper middle income,2002,4348068242,3051010
+AE,United Arab Emirates,Middle East & North Africa,High income,2002,1.09816E+11,3507232
+AU,Australia,East Asia & Pacific,High income,2002,3.94487E+11,19651400
+AT,Austria,Europe & Central Asia,High income,2002,2.13933E+11,8081957
+BE,Belgium,Europe & Central Asia,High income,2002,2.5886E+11,10332785
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2002,16276456428,7837161
+BR,Brazil,Latin America & Caribbean,Upper middle income,2002,5.07962E+11,180151021
+CA,Canada,North America,High income,2002,7.57951E+11,31362000
+CH,Switzerland,Europe & Central Asia,High income,2002,3.01417E+11,7284753
+CL,Chile,Latin America & Caribbean,High income,2002,69736811435,15623635
+CO,Colombia,Latin America & Caribbean,Upper middle income,2002,97933391976,41572491
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2002,16504795593,4063204
+CZ,Czech Republic,Europe & Central Asia,High income,2002,81910771994,10196916
+DE,Germany,Europe & Central Asia,High income,2002,2.07914E+12,82488495
+DK,Denmark,Europe & Central Asia,High income,2002,1.78635E+11,5375931
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2002,27362875603,8832285
+DZ,Algeria,Middle East & North Africa,Upper middle income,2002,56760288974,31995046
+ES,Spain,Europe & Central Asia,High income,2002,7.05146E+11,41431558
+EE,Estonia,Europe & Central Asia,High income,2002,7322069511,1379350
+FI,Finland,Europe & Central Asia,High income,2002,1.39553E+11,5200598
+FR,France,Europe & Central Asia,High income,2002,1.49429E+12,61805267
+GB,United Kingdom,Europe & Central Asia,High income,2002,1.75581E+12,59370479
+GE,Georgia,Europe & Central Asia,Lower middle income,2002,3395739837,3978515
+GR,Greece,Europe & Central Asia,High income,2002,1.53831E+11,10902022
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2002,1.66349E+11,6744100
+HR,Croatia,Europe & Central Asia,High income,2002,26868450815,4302174
+HU,Hungary,Europe & Central Asia,High income,2002,67716887203,10158608
+ID,Indonesia,East Asia & Pacific,Lower middle income,2002,1.95661E+11,217508059
+IE,Ireland,Europe & Central Asia,High income,2002,1.27945E+11,3931947
+IS,Iceland,Europe & Central Asia,High income,2002,9207689916,287523
+IL,Israel,Middle East & North Africa,High income,2002,1.21069E+11,6570000
+IT,Italy,Europe & Central Asia,High income,2002,1.26651E+12,57059007
+JO,Jordan,Middle East & North Africa,Upper middle income,2002,9582453032,5287488
+JP,Japan,East Asia & Pacific,High income,2002,4.11512E+12,127445000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2002,6.0902E+11,47644736
+XK,Kosovo,Europe & Central Asia,Lower middle income,2002,2406270658,1702310
+LB,Lebanon,Middle East & North Africa,Upper middle income,2002,19152238806,3522837
+LT,Lithuania,Europe & Central Asia,High income,2002,14278357284,3443067
+LU,Luxembourg,Europe & Central Asia,High income,2002,23616328816,446175
+LV,Latvia,Europe & Central Asia,High income,2002,9443021730,2310173
+MO,"Macao SAR, China",East Asia & Pacific,High income,2002,7322677820,448896
+MD,Moldova,Europe & Central Asia,Lower middle income,2002,1661818168,3623062
+MX,Mexico,Latin America & Caribbean,Upper middle income,2002,7.72106E+11,104355608
+MK,FYROM,Europe & Central Asia,Upper middle income,2002,4018365247,2048928
+MT,Malta,Middle East & North Africa,High income,2002,4712065962,395969
+ME,Montenegro,Europe & Central Asia,Upper middle income,2002,1284685051,609828
+NL,Netherlands,Europe & Central Asia,High income,2002,4.65369E+11,16148929
+NO,Norway,Europe & Central Asia,High income,2002,1.95418E+11,4538159
+NZ,New Zealand,East Asia & Pacific,High income,2002,67108326598,3948500
+PE,Peru,Latin America & Caribbean,Upper middle income,2002,54777553515,26601467
+PL,Poland,Europe & Central Asia,High income,2002,1.98681E+11,38230364
+PT,Portugal,Europe & Central Asia,High income,2002,1.34229E+11,10419631
+AR,Argentina,Latin America & Caribbean,High income,2002,97724004252,37889370
+QA,Qatar,Middle East & North Africa,High income,2002,19363736264,645659
+CN,China,East Asia & Pacific,Upper middle income,2002,1.47055E+12,1280400000
+RO,Romania,Europe & Central Asia,Upper middle income,2002,46174557556,21730496
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2002,3.4547E+11,145306046
+SG,Singapore,East Asia & Pacific,High income,2002,91941192896,4175950
+SK,Slovak Republic,Europe & Central Asia,High income,2002,35679148392,5376912
+SI,Slovenia,Europe & Central Asia,High income,2002,23563576758,1994530
+SE,Sweden,Europe & Central Asia,High income,2002,2.63926E+11,8924958
+TH,Thailand,East Asia & Pacific,Upper middle income,2002,1.34301E+11,64073164
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2002,9008273721,1277837
+TN,Tunisia,Middle East & North Africa,Lower middle income,2002,23142294436,9864326
+TR,Turkey,Europe & Central Asia,Upper middle income,2002,2.38428E+11,65143054
+UY,Uruguay,Latin America & Caribbean,High income,2002,13606494599,3327773
+US,United States,North America,High income,2002,1.09566E+13,287625193
+VN,Vietnam,East Asia & Pacific,Lower middle income,2002,35911617058,81956496
+AL,Albania,Europe & Central Asia,Upper middle income,2003,5694103600,3039616
+AE,United Arab Emirates,Middle East & North Africa,High income,2003,1.24346E+11,3741932
+AU,Australia,East Asia & Pacific,High income,2003,4.71838E+11,19895400
+AT,Austria,Europe & Central Asia,High income,2003,2.62229E+11,8121423
+BE,Belgium,Europe & Central Asia,High income,2003,3.19003E+11,10376133
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2003,20982685981,7775327
+BR,Brazil,Latin America & Caribbean,Upper middle income,2003,5.5832E+11,182482149
+CA,Canada,North America,High income,2003,8.8471E+11,31676000
+CH,Switzerland,Europe & Central Asia,High income,2003,3.52915E+11,7339001
+CL,Chile,Latin America & Caribbean,High income,2003,75643459840,15799542
+CO,Colombia,Latin America & Caribbean,Upper middle income,2003,96056482970,42152151
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2003,17195867468,4125971
+CZ,Czech Republic,Europe & Central Asia,High income,2003,99627140274,10193998
+DE,Germany,Europe & Central Asia,High income,2003,2.50573E+12,82534176
+DK,Denmark,Europe & Central Asia,High income,2003,2.18096E+11,5390574
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2003,21642882856,8967760
+DZ,Algeria,Middle East & North Africa,Upper middle income,2003,67863829880,32403514
+ES,Spain,Europe & Central Asia,High income,2003,9.07007E+11,42187645
+EE,Estonia,Europe & Central Asia,High income,2003,9833870709,1370720
+FI,Finland,Europe & Central Asia,High income,2003,1.71281E+11,5213014
+FR,France,Europe & Central Asia,High income,2003,1.84048E+12,62244886
+GB,United Kingdom,Europe & Central Asia,High income,2003,2.0384E+12,59647577
+GE,Georgia,Europe & Central Asia,Lower middle income,2003,4005130652,3951736
+GR,Greece,Europe & Central Asia,High income,2003,2.01924E+11,10928070
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2003,1.61385E+11,6730800
+HR,Croatia,Europe & Central Asia,High income,2003,34619215768,4303399
+HU,Hungary,Europe & Central Asia,High income,2003,85324771841,10129552
+ID,Indonesia,East Asia & Pacific,Lower middle income,2003,2.28498E+11,220545214
+IE,Ireland,Europe & Central Asia,High income,2003,1.64285E+11,3996521
+IS,Iceland,Europe & Central Asia,High income,2003,11316441660,289521
+IL,Israel,Middle East & North Africa,High income,2003,1.26865E+11,6689700
+IT,Italy,Europe & Central Asia,High income,2003,1.56965E+12,57313203
+JO,Jordan,Middle East & North Africa,Upper middle income,2003,10195660790,5396774
+JP,Japan,East Asia & Pacific,High income,2003,4.44566E+12,127718000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2003,6.80521E+11,47892330
+XK,Kosovo,Europe & Central Asia,Lower middle income,2003,2790455728,1703466
+LB,Lebanon,Middle East & North Africa,Upper middle income,2003,20082918740,3701464
+LT,Lithuania,Europe & Central Asia,High income,2003,18660774965,3415213
+LU,Luxembourg,Europe & Central Asia,High income,2003,29557325056,451630
+LV,Latvia,Europe & Central Asia,High income,2003,11748433157,2287955
+MO,"Macao SAR, China",East Asia & Pacific,High income,2003,8195033162,460147
+MD,Moldova,Europe & Central Asia,Lower middle income,2003,1980901554,3612874
+MX,Mexico,Latin America & Caribbean,Upper middle income,2003,7.29336E+11,105640453
+MK,FYROM,Europe & Central Asia,Upper middle income,2003,4927529934,2053426
+MT,Malta,Middle East & North Africa,High income,2003,5456583589,398582
+ME,Montenegro,Europe & Central Asia,Upper middle income,2003,1707710053,612267
+NL,Netherlands,Europe & Central Asia,High income,2003,5.71863E+11,16225302
+NO,Norway,Europe & Central Asia,High income,2003,2.28752E+11,4564855
+NZ,New Zealand,East Asia & Pacific,High income,2003,88250885550,4027200
+PE,Peru,Latin America & Caribbean,Upper middle income,2003,58731030122,26937738
+PL,Poland,Europe & Central Asia,High income,2003,2.17513E+11,38204570
+PT,Portugal,Europe & Central Asia,High income,2003,1.64964E+11,10458821
+AR,Argentina,Latin America & Caribbean,High income,2003,1.27587E+11,38309379
+QA,Qatar,Middle East & North Africa,High income,2003,23533791209,688586
+CN,China,East Asia & Pacific,Upper middle income,2003,1.66029E+12,1288400000
+RO,Romania,Europe & Central Asia,Upper middle income,2003,59550055113,21574326
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2003,4.30348E+11,144648257
+SG,Singapore,East Asia & Pacific,High income,2003,97001377569,4114826
+SK,Slovak Republic,Europe & Central Asia,High income,2003,46815204515,5373374
+SI,Slovenia,Europe & Central Asia,High income,2003,29697448108,1995733
+SE,Sweden,Europe & Central Asia,High income,2003,3.31109E+11,8958229
+TH,Thailand,East Asia & Pacific,Upper middle income,2003,1.52281E+11,64554952
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2003,11305459802,1284052
+TN,Tunisia,Middle East & North Africa,Lower middle income,2003,27492952176,9939678
+TR,Turkey,Europe & Central Asia,Upper middle income,2003,3.11776E+11,66085803
+UY,Uruguay,Latin America & Caribbean,High income,2003,12045631093,3325637
+US,United States,North America,High income,2003,1.15107E+13,290107933
+VN,Vietnam,East Asia & Pacific,Lower middle income,2003,39552513316,82747662
+AL,Albania,Europe & Central Asia,Upper middle income,2004,7184685782,3026939
+AE,United Arab Emirates,Middle East & North Africa,High income,2004,1.48201E+11,4087931
+AU,Australia,East Asia & Pacific,High income,2004,6.11904E+11,20127400
+AT,Austria,Europe & Central Asia,High income,2004,3.00706E+11,8171966
+BE,Belgium,Europe & Central Asia,High income,2004,3.70885E+11,10421137
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2004,25957970922,7716860
+BR,Brazil,Latin America & Caribbean,Upper middle income,2004,6.78515E+11,184738458
+CA,Canada,North America,High income,2004,1.0232E+12,31995000
+CH,Switzerland,Europe & Central Asia,High income,2004,3.94164E+11,7389625
+CL,Chile,Latin America & Caribbean,High income,2004,99210392858,15973778
+CO,Colombia,Latin America & Caribbean,Upper middle income,2004,1.17075E+11,42724163
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2004,18529767918,4187038
+CZ,Czech Republic,Europe & Central Asia,High income,2004,1.19162E+11,10197101
+DE,Germany,Europe & Central Asia,High income,2004,2.81925E+12,82516260
+DK,Denmark,Europe & Central Asia,High income,2004,2.51373E+11,5404523
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2004,22692574473,9102998
+DZ,Algeria,Middle East & North Africa,Upper middle income,2004,85324998814,32831096
+ES,Spain,Europe & Central Asia,High income,2004,1.06956E+12,42921895
+EE,Estonia,Europe & Central Asia,High income,2004,12059201242,1362550
+FI,Finland,Europe & Central Asia,High income,2004,1.96768E+11,5228172
+FR,France,Europe & Central Asia,High income,2004,2.11574E+12,62704895
+GB,United Kingdom,Europe & Central Asia,High income,2004,2.39856E+12,59987905
+GE,Georgia,Europe & Central Asia,Lower middle income,2004,5125362833,3927340
+GR,Greece,Europe & Central Asia,High income,2004,2.40521E+11,10955141
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2004,1.69504E+11,6783500
+HR,Croatia,Europe & Central Asia,High income,2004,41523418158,4304600
+HU,Hungary,Europe & Central Asia,High income,2004,1.03685E+11,10107146
+ID,Indonesia,East Asia & Pacific,Lower middle income,2004,2.52684E+11,223614649
+IE,Ireland,Europe & Central Asia,High income,2004,1.9387E+11,4070262
+IS,Iceland,Europe & Central Asia,High income,2004,13722824251,292074
+IL,Israel,Middle East & North Africa,High income,2004,1.35445E+11,6809000
+IT,Italy,Europe & Central Asia,High income,2004,1.80214E+12,57685327
+JO,Jordan,Middle East & North Africa,Upper middle income,2004,11411390409,5535595
+JP,Japan,East Asia & Pacific,High income,2004,4.81515E+12,127761000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2004,7.64881E+11,48082519
+XK,Kosovo,Europe & Central Asia,Lower middle income,2004,3556757429,1704622
+LB,Lebanon,Middle East & North Africa,Upper middle income,2004,21145518600,3863267
+LT,Lithuania,Europe & Central Asia,High income,2004,22767876749,3377075
+LU,Luxembourg,Europe & Central Asia,High income,2004,34685281848,458095
+LV,Latvia,Europe & Central Asia,High income,2004,14373269156,2263122
+MO,"Macao SAR, China",East Asia & Pacific,High income,2004,10585624891,471453
+MD,Moldova,Europe & Central Asia,Lower middle income,2004,2598231467,3603945
+MX,Mexico,Latin America & Caribbean,Upper middle income,2004,7.82241E+11,106995583
+MK,FYROM,Europe & Central Asia,Upper middle income,2004,5693149108,2057047
+MT,Malta,Middle East & North Africa,High income,2004,6062780269,401268
+ME,Montenegro,Europe & Central Asia,Upper middle income,2004,2073234418,613353
+NL,Netherlands,Europe & Central Asia,High income,2004,6.50533E+11,16281779
+NO,Norway,Europe & Central Asia,High income,2004,2.64357E+11,4591910
+NZ,New Zealand,East Asia & Pacific,High income,2004,1.03905E+11,4087500
+PE,Peru,Latin America & Caribbean,Upper middle income,2004,66786902785,27273194
+PL,Poland,Europe & Central Asia,High income,2004,2.55102E+11,38182222
+PT,Portugal,Europe & Central Asia,High income,2004,1.89187E+11,10483861
+AR,Argentina,Latin America & Caribbean,High income,2004,1.64658E+11,38728696
+QA,Qatar,Middle East & North Africa,High income,2004,31734065934,758855
+CN,China,East Asia & Pacific,Upper middle income,2004,1.95535E+12,1296075000
+RO,Romania,Europe & Central Asia,Upper middle income,2004,76216441462,21451748
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2004,5.91017E+11,144067054
+SG,Singapore,East Asia & Pacific,High income,2004,1.1337E+11,4166664
+SK,Slovak Republic,Europe & Central Asia,High income,2004,57240535138,5372280
+SI,Slovenia,Europe & Central Asia,High income,2004,34470227454,1997012
+SE,Sweden,Europe & Central Asia,High income,2004,3.80964E+11,8993531
+TH,Thailand,East Asia & Pacific,Upper middle income,2004,1.72895E+11,65002231
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2004,13280275123,1290535
+TN,Tunisia,Middle East & North Africa,Lower middle income,2004,31183139301,10017601
+TR,Turkey,Europe & Central Asia,Upper middle income,2004,4.05709E+11,67007855
+UY,Uruguay,Latin America & Caribbean,High income,2004,13686329890,3324096
+US,United States,North America,High income,2004,1.22749E+13,292805298
+VN,Vietnam,East Asia & Pacific,Lower middle income,2004,45427854693,83527678
+AL,Albania,Europe & Central Asia,Upper middle income,2005,8052073539,3011487
+AE,United Arab Emirates,Middle East & North Africa,High income,2005,1.80617E+11,4579562
+AU,Australia,East Asia & Pacific,High income,2005,6.92642E+11,20394800
+AT,Austria,Europe & Central Asia,High income,2005,3.15653E+11,8227829
+BE,Belgium,Europe & Central Asia,High income,2005,3.87366E+11,10478617
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2005,29636617750,7658972
+BR,Brazil,Latin America & Caribbean,Upper middle income,2005,8.9163E+11,186917361
+CA,Canada,North America,High income,2005,1.16936E+12,32312000
+CH,Switzerland,Europe & Central Asia,High income,2005,4.08689E+11,7437115
+CL,Chile,Latin America & Caribbean,High income,2005,1.22965E+11,16147064
+CO,Colombia,Latin America & Caribbean,Upper middle income,2005,1.45181E+11,43285634
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2005,19952156489,4247841
+CZ,Czech Republic,Europe & Central Asia,High income,2005,1.36352E+11,10211216
+DE,Germany,Europe & Central Asia,High income,2005,2.86141E+12,82469422
+DK,Denmark,Europe & Central Asia,High income,2005,2.64467E+11,5419432
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2005,36119047252,9237566
+DZ,Algeria,Middle East & North Africa,Upper middle income,2005,1.03198E+11,33288437
+ES,Spain,Europe & Central Asia,High income,2005,1.15728E+12,43653155
+EE,Estonia,Europe & Central Asia,High income,2005,14067570505,1354775
+FI,Finland,Europe & Central Asia,High income,2005,2.04436E+11,5246096
+FR,France,Europe & Central Asia,High income,2005,2.19613E+12,63179351
+GB,United Kingdom,Europe & Central Asia,High income,2005,2.5207E+12,60401206
+GE,Georgia,Europe & Central Asia,Lower middle income,2005,6410847045,3902469
+GR,Greece,Europe & Central Asia,High income,2005,2.47783E+11,10987314
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2005,1.8157E+11,6813200
+HR,Croatia,Europe & Central Asia,High income,2005,45244261594,4310145
+HU,Hungary,Europe & Central Asia,High income,2005,1.13035E+11,10087065
+ID,Indonesia,East Asia & Pacific,Lower middle income,2005,2.85869E+11,226712730
+IE,Ireland,Europe & Central Asia,High income,2005,2.11467E+11,4159914
+IS,Iceland,Europe & Central Asia,High income,2005,16691490114,296734
+IL,Israel,Middle East & North Africa,High income,2005,1.42463E+11,6930100
+IT,Italy,Europe & Central Asia,High income,2005,1.85266E+12,57969484
+JO,Jordan,Middle East & North Africa,Upper middle income,2005,12681317564,5714111
+JP,Japan,East Asia & Pacific,High income,2005,4.75541E+12,127773000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2005,8.9381E+11,48184561
+XK,Kosovo,Europe & Central Asia,Lower middle income,2005,3663101604,1705780
+LB,Lebanon,Middle East & North Africa,Upper middle income,2005,21489962080,3986852
+LT,Lithuania,Europe & Central Asia,High income,2005,26125575942,3322528
+LU,Luxembourg,Europe & Central Asia,High income,2005,37347394603,465158
+LV,Latvia,Europe & Central Asia,High income,2005,16922504045,2238799
+MO,"Macao SAR, China",East Asia & Pacific,High income,2005,12092222042,482559
+MD,Moldova,Europe & Central Asia,Lower middle income,2005,2988338439,3595187
+MX,Mexico,Latin America & Caribbean,Upper middle income,2005,8.77476E+11,108472228
+MK,FYROM,Europe & Central Asia,Upper middle income,2005,6258600714,2060272
+MT,Malta,Middle East & North Africa,High income,2005,6394851387,403834
+ME,Montenegro,Europe & Central Asia,Upper middle income,2005,2257174481,614261
+NL,Netherlands,Europe & Central Asia,High income,2005,6.78534E+11,16319868
+NO,Norway,Europe & Central Asia,High income,2005,3.08722E+11,4623291
+NZ,New Zealand,East Asia & Pacific,High income,2005,1.14719E+11,4133900
+PE,Peru,Latin America & Caribbean,Upper middle income,2005,76060606061,27610410
+PL,Poland,Europe & Central Asia,High income,2005,3.06125E+11,38165445
+PT,Portugal,Europe & Central Asia,High income,2005,1.97305E+11,10503330
+AR,Argentina,Latin America & Caribbean,High income,2005,1.98737E+11,39145488
+QA,Qatar,Middle East & North Africa,High income,2005,44530494505,864863
+CN,China,East Asia & Pacific,Upper middle income,2005,2.29297E+12,1303720000
+RO,Romania,Europe & Central Asia,Upper middle income,2005,99697566668,21319685
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2005,7.67197E+11,143518523
+SG,Singapore,East Asia & Pacific,High income,2005,1.27418E+11,4265762
+SK,Slovak Republic,Europe & Central Asia,High income,2005,62697540107,5372807
+SI,Slovenia,Europe & Central Asia,High income,2005,36346974008,2000474
+SE,Sweden,Europe & Central Asia,High income,2005,3.89042E+11,9029572
+TH,Thailand,East Asia & Pacific,Upper middle income,2005,1.89318E+11,65425470
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2005,15982282462,1296934
+TN,Tunisia,Middle East & North Africa,Lower middle income,2005,32273007554,10102482
+TR,Turkey,Europe & Central Asia,Upper middle income,2005,5.01416E+11,67903406
+UY,Uruguay,Latin America & Caribbean,High income,2005,17362857684,3325612
+US,United States,North America,High income,2005,1.30937E+13,295516599
+VN,Vietnam,East Asia & Pacific,Lower middle income,2005,57064398942,84308843
+AL,Albania,Europe & Central Asia,Upper middle income,2006,8896072919,2992547
+AE,United Arab Emirates,Middle East & North Africa,High income,2006,2.22117E+11,5242032
+AU,Australia,East Asia & Pacific,High income,2006,7.45522E+11,20697900
+AT,Austria,Europe & Central Asia,High income,2006,3.35999E+11,8268641
+BE,Belgium,Europe & Central Asia,High income,2006,4.10065E+11,10547958
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2006,34130122491,7601022
+BR,Brazil,Latin America & Caribbean,Upper middle income,2006,1.10764E+12,189012412
+CA,Canada,North America,High income,2006,1.31542E+12,32570505
+CH,Switzerland,Europe & Central Asia,High income,2006,4.30921E+11,7483934
+CL,Chile,Latin America & Caribbean,High income,2006,1.54788E+11,16319792
+CO,Colombia,Latin America & Caribbean,Upper middle income,2006,1.6119E+11,43835722
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2006,22600431883,4308794
+CZ,Czech Republic,Europe & Central Asia,High income,2006,1.55464E+11,10238905
+DE,Germany,Europe & Central Asia,High income,2006,3.0158E+12,82376451
+DK,Denmark,Europe & Central Asia,High income,2006,2.82885E+11,5437272
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2006,38116351526,9371338
+DZ,Algeria,Middle East & North Africa,Upper middle income,2006,1.17027E+11,33777915
+ES,Spain,Europe & Central Asia,High income,2006,1.26455E+12,44397319
+EE,Estonia,Europe & Central Asia,High income,2006,16963625016,1346810
+FI,Finland,Europe & Central Asia,High income,2006,2.16553E+11,5266268
+FR,France,Europe & Central Asia,High income,2006,2.31859E+12,63621381
+GB,United Kingdom,Europe & Central Asia,High income,2006,2.69261E+12,60846820
+GE,Georgia,Europe & Central Asia,Lower middle income,2006,7745401718,3880347
+GR,Greece,Europe & Central Asia,High income,2006,2.73318E+11,11020362
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2006,1.93536E+11,6857100
+HR,Croatia,Europe & Central Asia,High income,2006,50294203247,4311159
+HU,Hungary,Europe & Central Asia,High income,2006,1.16195E+11,10071370
+ID,Indonesia,East Asia & Pacific,Lower middle income,2006,3.64571E+11,229838202
+IE,Ireland,Europe & Central Asia,High income,2006,2.31353E+11,4273591
+IS,Iceland,Europe & Central Asia,High income,2006,17179950579,303782
+IL,Israel,Middle East & North Africa,High income,2006,1.5467E+11,7053700
+IT,Italy,Europe & Central Asia,High income,2006,1.94263E+12,58143979
+JO,Jordan,Middle East & North Africa,Upper middle income,2006,15056929760,5934232
+JP,Japan,East Asia & Pacific,High income,2006,4.53038E+12,127854000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2006,1.0118E+12,48438292
+XK,Kosovo,Europe & Central Asia,Lower middle income,2006,3874345093,1719536
+LB,Lebanon,Middle East & North Africa,Upper middle income,2006,22100536008,4057350
+LT,Lithuania,Europe & Central Asia,High income,2006,30216060233,3269909
+LU,Luxembourg,Europe & Central Asia,High income,2006,42269346123,472637
+LV,Latvia,Europe & Central Asia,High income,2006,21447021570,2218357
+MO,"Macao SAR, China",East Asia & Pacific,High income,2006,14789661809,493320
+MD,Moldova,Europe & Central Asia,Lower middle income,2006,3408272498,3585209
+MX,Mexico,Latin America & Caribbean,Upper middle income,2006,9.73463E+11,110092378
+MK,FYROM,Europe & Central Asia,Upper middle income,2006,6861222332,2063145
+MT,Malta,Middle East & North Africa,High income,2006,6757119558,405308
+ME,Montenegro,Europe & Central Asia,Upper middle income,2006,2721904403,615025
+NL,Netherlands,Europe & Central Asia,High income,2006,7.26649E+11,16346101
+NO,Norway,Europe & Central Asia,High income,2006,3.45425E+11,4660677
+NZ,New Zealand,East Asia & Pacific,High income,2006,1.11609E+11,4184600
+PE,Peru,Latin America & Caribbean,Upper middle income,2006,88643193062,27949944
+PL,Poland,Europe & Central Asia,High income,2006,3.44749E+11,38141267
+PT,Portugal,Europe & Central Asia,High income,2006,2.08567E+11,10522288
+AR,Argentina,Latin America & Caribbean,High income,2006,2.32557E+11,39558890
+QA,Qatar,Middle East & North Africa,High income,2006,60882142857,1010382
+CN,China,East Asia & Pacific,Upper middle income,2006,2.7655E+12,1311020000
+RO,Romania,Europe & Central Asia,Upper middle income,2006,1.23533E+11,21193760
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2006,9.87682E+11,143049528
+SG,Singapore,East Asia & Pacific,High income,2006,1.47797E+11,4401365
+SK,Slovak Republic,Europe & Central Asia,High income,2006,70596729394,5373054
+SI,Slovenia,Europe & Central Asia,High income,2006,39587732029,2006868
+SE,Sweden,Europe & Central Asia,High income,2006,4.20032E+11,9080505
+TH,Thailand,East Asia & Pacific,Upper middle income,2006,2.21758E+11,65824164
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2006,18369361094,1303144
+TN,Tunisia,Middle East & North Africa,Lower middle income,2006,34378437265,10196136
+TR,Turkey,Europe & Central Asia,Upper middle income,2006,5.53561E+11,68763405
+UY,Uruguay,Latin America & Caribbean,High income,2006,19579457966,3331043
+US,United States,North America,High income,2006,1.38559E+13,298379912
+VN,Vietnam,East Asia & Pacific,Lower middle income,2006,66371664817,85094617
+AL,Albania,Europe & Central Asia,Upper middle income,2007,10677324144,2970017
+AE,United Arab Emirates,Middle East & North Africa,High income,2007,2.57916E+11,6044067
+AU,Australia,East Asia & Pacific,High income,2007,8.51963E+11,20827600
+AT,Austria,Europe & Central Asia,High income,2007,3.88691E+11,8295487
+BE,Belgium,Europe & Central Asia,High income,2007,4.71821E+11,10625700
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2007,44411476557,7545338
+BR,Brazil,Latin America & Caribbean,Upper middle income,2007,1.39708E+12,191026637
+CA,Canada,North America,High income,2007,1.46498E+12,32887928
+CH,Switzerland,Europe & Central Asia,High income,2007,4.82017E+11,7551117
+CL,Chile,Latin America & Caribbean,High income,2007,1.73606E+11,16491687
+CO,Colombia,Latin America & Caribbean,Upper middle income,2007,2.05707E+11,44374572
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2007,26743874206,4369469
+CZ,Czech Republic,Europe & Central Asia,High income,2007,1.89227E+11,10298828
+DE,Germany,Europe & Central Asia,High income,2007,3.43995E+12,82266372
+DK,Denmark,Europe & Central Asia,High income,2007,3.19423E+11,5461438
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2007,44049260727,9504353
+DZ,Algeria,Middle East & North Africa,Upper middle income,2007,1.34977E+11,34300076
+ES,Spain,Europe & Central Asia,High income,2007,1.47934E+12,45226803
+EE,Estonia,Europe & Central Asia,High income,2007,22237061730,1340680
+FI,Finland,Europe & Central Asia,High income,2007,2.55385E+11,5288720
+FR,France,Europe & Central Asia,High income,2007,2.65721E+12,64016227
+GB,United Kingdom,Europe & Central Asia,High income,2007,3.047E+12,61322463
+GE,Georgia,Europe & Central Asia,Lower middle income,2007,10172869674,3860158
+GR,Greece,Europe & Central Asia,High income,2007,3.18498E+11,11048473
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2007,2.11597E+11,6916300
+HR,Croatia,Europe & Central Asia,High income,2007,60093896109,4310217
+HU,Hungary,Europe & Central Asia,High income,2007,1.39851E+11,10055780
+ID,Indonesia,East Asia & Pacific,Lower middle income,2007,4.32217E+11,232989141
+IE,Ireland,Europe & Central Asia,High income,2007,2.69918E+11,4398942
+IS,Iceland,Europe & Central Asia,High income,2007,21319946740,311566
+IL,Israel,Middle East & North Africa,High income,2007,1.78707E+11,7180100
+IT,Italy,Europe & Central Asia,High income,2007,2.20305E+12,58438310
+JO,Jordan,Middle East & North Africa,Upper middle income,2007,17110587447,6193191
+JP,Japan,East Asia & Pacific,High income,2007,4.51526E+12,128001000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2007,1.12268E+12,48683638
+XK,Kosovo,Europe & Central Asia,Lower middle income,2007,4655899261,1733404
+LB,Lebanon,Middle East & North Africa,Upper middle income,2007,24873482492,4086466
+LT,Lithuania,Europe & Central Asia,High income,2007,39484531263,3231294
+LU,Luxembourg,Europe & Central Asia,High income,2007,50888134410,479993
+LV,Latvia,Europe & Central Asia,High income,2007,30901399261,2200325
+MO,"Macao SAR, China",East Asia & Pacific,High income,2007,18340447243,503823
+MD,Moldova,Europe & Central Asia,Lower middle income,2007,4401154128,3576910
+MX,Mexico,Latin America & Caribbean,Upper middle income,2007,1.0527E+12,111836346
+MK,FYROM,Europe & Central Asia,Upper middle income,2007,8371072675,2065458
+MT,Malta,Middle East & North Africa,High income,2007,7880509171,406724
+ME,Montenegro,Europe & Central Asia,Upper middle income,2007,3635487298,615875
+NL,Netherlands,Europe & Central Asia,High income,2007,8.39019E+11,16381696
+NO,Norway,Europe & Central Asia,High income,2007,4.01083E+11,4709153
+NZ,New Zealand,East Asia & Pacific,High income,2007,1.37316E+11,4223800
+PE,Peru,Latin America & Caribbean,Upper middle income,2007,1.02171E+11,28292724
+PL,Poland,Europe & Central Asia,High income,2007,4.29064E+11,38120560
+PT,Portugal,Europe & Central Asia,High income,2007,2.40169E+11,10542964
+AR,Argentina,Latin America & Caribbean,High income,2007,2.87531E+11,39970224
+QA,Qatar,Middle East & North Africa,High income,2007,79712087912,1189633
+CN,China,East Asia & Pacific,Upper middle income,2007,3.55218E+12,1317885000
+RO,Romania,Europe & Central Asia,Upper middle income,2007,1.75934E+11,20882982
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2007,1.30046E+12,142805088
+SG,Singapore,East Asia & Pacific,High income,2007,1.78216E+11,4588599
+SK,Slovak Republic,Europe & Central Asia,High income,2007,86304245825,5374622
+SI,Slovenia,Europe & Central Asia,High income,2007,48114688201,2018122
+SE,Sweden,Europe & Central Asia,High income,2007,4.87816E+11,9148092
+TH,Thailand,East Asia & Pacific,Upper middle income,2007,2.62943E+11,66195615
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2007,21641620050,1309260
+TN,Tunisia,Middle East & North Africa,Lower middle income,2007,38908069299,10298087
+TR,Turkey,Europe & Central Asia,Upper middle income,2007,6.77927E+11,69597281
+UY,Uruguay,Latin America & Caribbean,High income,2007,23410572634,3339741
+US,United States,North America,High income,2007,1.45201E+13,301231207
+VN,Vietnam,East Asia & Pacific,Lower middle income,2007,77414425532,85889590
+AL,Albania,Europe & Central Asia,Upper middle income,2008,12881353508,2947314
+AE,United Arab Emirates,Middle East & North Africa,High income,2008,3.15475E+11,6894278
+AU,Australia,East Asia & Pacific,High income,2008,1.05258E+12,21249200
+AT,Austria,Europe & Central Asia,High income,2008,4.30294E+11,8321496
+BE,Belgium,Europe & Central Asia,High income,2008,5.18626E+11,10709973
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2008,54409138498,7492561
+BR,Brazil,Latin America & Caribbean,Upper middle income,2008,1.69582E+12,192979029
+CA,Canada,North America,High income,2008,1.54913E+12,33245773
+CH,Switzerland,Europe & Central Asia,High income,2008,5.54363E+11,7647675
+CL,Chile,Latin America & Caribbean,High income,2008,1.79638E+11,16661942
+CO,Colombia,Latin America & Caribbean,Upper middle income,2008,2.41711E+11,44901544
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2008,30612932876,4429508
+CZ,Czech Republic,Europe & Central Asia,High income,2008,2.35719E+11,10384603
+DE,Germany,Europe & Central Asia,High income,2008,3.75237E+12,82110097
+DK,Denmark,Europe & Central Asia,High income,2008,3.52698E+11,5493621
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2008,48288967303,9636520
+DZ,Algeria,Middle East & North Africa,Upper middle income,2008,1.6992E+11,34860715
+ES,Spain,Europe & Central Asia,High income,2008,1.63502E+12,45954106
+EE,Estonia,Europe & Central Asia,High income,2008,24194039256,1337090
+FI,Finland,Europe & Central Asia,High income,2008,2.83742E+11,5313399
+FR,France,Europe & Central Asia,High income,2008,2.91838E+12,64374989
+GB,United Kingdom,Europe & Central Asia,High income,2008,2.89056E+12,61806995
+GE,Georgia,Europe & Central Asia,Lower middle income,2008,12795044475,3848449
+GR,Greece,Europe & Central Asia,High income,2008,3.54461E+11,11077841
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2008,2.1928E+11,6957800
+HR,Croatia,Europe & Central Asia,High income,2008,70474602564,4309705
+HU,Hungary,Europe & Central Asia,High income,2008,1.57066E+11,10038188
+ID,Indonesia,East Asia & Pacific,Lower middle income,2008,5.10229E+11,236159276
+IE,Ireland,Europe & Central Asia,High income,2008,2.7502E+11,4489544
+IS,Iceland,Europe & Central Asia,High income,2008,17658408759,317414
+IL,Israel,Middle East & North Africa,High income,2008,2.1584E+11,7308800
+IT,Italy,Europe & Central Asia,High income,2008,2.39228E+12,58826731
+JO,Jordan,Middle East & North Africa,Upper middle income,2008,21883616275,6489822
+JP,Japan,East Asia & Pacific,High income,2008,5.03791E+12,128063000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2008,1.00222E+12,49054708
+XK,Kosovo,Europe & Central Asia,Lower middle income,2008,5687417607,1747383
+LB,Lebanon,Middle East & North Africa,Upper middle income,2008,29227542760,4111047
+LT,Lithuania,Europe & Central Asia,High income,2008,47850551149,3198231
+LU,Luxembourg,Europe & Central Asia,High income,2008,56210985126,488650
+LV,Latvia,Europe & Central Asia,High income,2008,35596016664,2177322
+MO,"Macao SAR, China",East Asia & Pacific,High income,2008,20917444920,514348
+MD,Moldova,Europe & Central Asia,Lower middle income,2008,6054806101,3570108
+MX,Mexico,Latin America & Caribbean,Upper middle income,2008,1.10999E+12,113661809
+MK,FYROM,Europe & Central Asia,Upper middle income,2008,9909548411,2067378
+MT,Malta,Middle East & North Africa,High income,2008,8977149553,409379
+ME,Montenegro,Europe & Central Asia,Upper middle income,2008,4545674528,616969
+NL,Netherlands,Europe & Central Asia,High income,2008,9.36228E+11,16445593
+NO,Norway,Europe & Central Asia,High income,2008,4.60137E+11,4768212
+NZ,New Zealand,East Asia & Pacific,High income,2008,1.3328E+11,4259800
+PE,Peru,Latin America & Caribbean,Upper middle income,2008,1.21073E+11,28641980
+PL,Poland,Europe & Central Asia,High income,2008,5.33816E+11,38125759
+PT,Portugal,Europe & Central Asia,High income,2008,2.62008E+11,10558177
+AR,Argentina,Latin America & Caribbean,High income,2008,3.61558E+11,40382389
+QA,Qatar,Middle East & North Africa,High income,2008,1.15264E+11,1389342
+CN,China,East Asia & Pacific,Upper middle income,2008,4.67438E+12,1324655000
+RO,Romania,Europe & Central Asia,Upper middle income,2008,2.13605E+11,20537875
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2008,1.66085E+12,142742350
+SG,Singapore,East Asia & Pacific,High income,2008,1.92226E+11,4839396
+SK,Slovak Republic,Europe & Central Asia,High income,2008,1.00325E+11,5379233
+SI,Slovenia,Europe & Central Asia,High income,2008,55487199092,2021316
+SE,Sweden,Europe & Central Asia,High income,2008,5.13966E+11,9219637
+TH,Thailand,East Asia & Pacific,Upper middle income,2008,2.88286E+11,66545760
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2008,27871587350,1315372
+TN,Tunisia,Middle East & North Africa,Lower middle income,2008,44856586316,10407336
+TR,Turkey,Europe & Central Asia,Upper middle income,2008,7.64336E+11,70440032
+UY,Uruguay,Latin America & Caribbean,High income,2008,30366213119,3350824
+US,United States,North America,High income,2008,1.47427E+13,304093966
+VN,Vietnam,East Asia & Pacific,Lower middle income,2008,99130304099,86707801
+AL,Albania,Europe & Central Asia,Upper middle income,2009,12044208086,2927519
+AE,United Arab Emirates,Middle East & North Africa,High income,2009,2.53547E+11,7666393
+AU,Australia,East Asia & Pacific,High income,2009,9.26608E+11,21691700
+AT,Austria,Europe & Central Asia,High income,2009,4.00172E+11,8343323
+BE,Belgium,Europe & Central Asia,High income,2009,4.84553E+11,10796493
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2009,51884481410,7444443
+BR,Brazil,Latin America & Caribbean,Upper middle income,2009,1.68306E+12,194895996
+CA,Canada,North America,High income,2009,1.37115E+12,33628571
+CH,Switzerland,Europe & Central Asia,High income,2009,5.38894E+11,7743831
+CL,Chile,Latin America & Caribbean,High income,2009,1.72389E+11,16829442
+CO,Colombia,Latin America & Caribbean,Upper middle income,2009,2.32494E+11,45416181
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2009,30562361123,4488263
+CZ,Czech Republic,Europe & Central Asia,High income,2009,2.0755E+11,10443936
+DE,Germany,Europe & Central Asia,High income,2009,3.39818E+12,81902307
+DK,Denmark,Europe & Central Asia,High income,2009,3.21241E+11,5523095
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2009,48376555306,9767758
+DZ,Algeria,Middle East & North Africa,Upper middle income,2009,1.37211E+11,35465760
+ES,Spain,Europe & Central Asia,High income,2009,1.4991E+12,46362946
+EE,Estonia,Europe & Central Asia,High income,2009,19652492637,1334515
+FI,Finland,Europe & Central Asia,High income,2009,2.50695E+11,5338871
+FR,France,Europe & Central Asia,High income,2009,2.69022E+12,64707044
+GB,United Kingdom,Europe & Central Asia,High income,2009,2.38283E+12,62276270
+GE,Georgia,Europe & Central Asia,Lower middle income,2009,10766809096,3814419
+GR,Greece,Europe & Central Asia,High income,2009,3.3E+11,11107017
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2009,2.14046E+11,6972800
+HR,Croatia,Europe & Central Asia,High income,2009,62812990984,4305181
+HU,Hungary,Europe & Central Asia,High income,2009,1.31785E+11,10022650
+ID,Indonesia,East Asia & Pacific,Lower middle income,2009,5.3958E+11,239340478
+IE,Ireland,Europe & Central Asia,High income,2009,2.36311E+11,4535375
+IS,Iceland,Europe & Central Asia,High income,2009,12944114736,318499
+IL,Israel,Middle East & North Africa,High income,2009,2.08115E+11,7485600
+IT,Italy,Europe & Central Asia,High income,2009,2.18516E+12,59095365
+JO,Jordan,Middle East & North Africa,Upper middle income,2009,23820230000,6821116
+JP,Japan,East Asia & Pacific,High income,2009,5.23138E+12,128047000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2009,9.01935E+11,49307835
+XK,Kosovo,Europe & Central Asia,Lower middle income,2009,5653792720,1761474
+LB,Lebanon,Middle East & North Africa,Upper middle income,2009,35477299024,4183156
+LT,Lithuania,Europe & Central Asia,High income,2009,37391496120,3162916
+LU,Luxembourg,Europe & Central Asia,High income,2009,51370543206,497783
+LV,Latvia,Europe & Central Asia,High income,2009,26169854045,2141669
+MO,"Macao SAR, China",East Asia & Pacific,High income,2009,21475520709,525313
+MD,Moldova,Europe & Central Asia,Lower middle income,2009,5439422031,3565604
+MX,Mexico,Latin America & Caribbean,Upper middle income,2009,9.00045E+11,115505228
+MK,FYROM,Europe & Central Asia,Upper middle income,2009,9401731496,2069093
+MT,Malta,Middle East & North Africa,High income,2009,8528202278,412477
+ME,Montenegro,Europe & Central Asia,Upper middle income,2009,4159330370,618294
+NL,Netherlands,Europe & Central Asia,High income,2009,8.57933E+11,16530388
+NO,Norway,Europe & Central Asia,High income,2009,3.86622E+11,4828726
+NZ,New Zealand,East Asia & Pacific,High income,2009,1.22318E+11,4302600
+PE,Peru,Latin America & Caribbean,Upper middle income,2009,1.20823E+11,29001507
+PL,Poland,Europe & Central Asia,High income,2009,4.39796E+11,38151603
+PT,Portugal,Europe & Central Asia,High income,2009,2.44509E+11,10568247
+AR,Argentina,Latin America & Caribbean,High income,2009,3.32976E+11,40799407
+QA,Qatar,Middle East & North Africa,High income,2009,97798351648,1590780
+CN,China,East Asia & Pacific,Upper middle income,2009,5.10995E+12,1331260000
+RO,Romania,Europe & Central Asia,Upper middle income,2009,1.72612E+11,20367487
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2009,1.22264E+12,142785342
+SG,Singapore,East Asia & Pacific,High income,2009,1.9219E+11,4987573
+SK,Slovak Republic,Europe & Central Asia,High income,2009,88964633503,5386406
+SI,Slovenia,Europe & Central Asia,High income,2009,50244793832,2039669
+SE,Sweden,Europe & Central Asia,High income,2009,4.29657E+11,9298515
+TH,Thailand,East Asia & Pacific,Upper middle income,2009,2.82266E+11,66881867
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2009,19172165226,1321618
+TN,Tunisia,Middle East & North Africa,Lower middle income,2009,43516368607,10521834
+TR,Turkey,Europe & Central Asia,Upper middle income,2009,6.4464E+11,71339185
+UY,Uruguay,Latin America & Caribbean,High income,2009,31660911277,3362755
+US,United States,North America,High income,2009,1.44187E+13,306771529
+VN,Vietnam,East Asia & Pacific,Lower middle income,2009,1.06015E+11,87565407
+AL,Albania,Europe & Central Asia,Upper middle income,2010,11926957255,2913021
+AE,United Arab Emirates,Middle East & North Africa,High income,2010,2.89787E+11,8270684
+AU,Australia,East Asia & Pacific,High income,2010,1.14426E+12,22031750
+AT,Austria,Europe & Central Asia,High income,2010,3.94383E+11,8363404
+BE,Belgium,Europe & Central Asia,High income,2010,4.83548E+11,10895586
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2010,50610058210,7395599
+BR,Brazil,Latin America & Caribbean,Upper middle income,2010,2.20887E+12,196796269
+CA,Canada,North America,High income,2010,1.61346E+12,34005274
+CH,Switzerland,Europe & Central Asia,High income,2010,5.83783E+11,7824909
+CL,Chile,Latin America & Caribbean,High income,2010,2.18538E+11,16993354
+CO,Colombia,Latin America & Caribbean,Upper middle income,2010,2.85358E+11,45918097
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2010,37268635287,4545280
+CZ,Czech Republic,Europe & Central Asia,High income,2010,2.07478E+11,10474410
+DE,Germany,Europe & Central Asia,High income,2010,3.41709E+12,81776930
+DK,Denmark,Europe & Central Asia,High income,2010,3.21995E+11,5547683
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2010,53982886258,9897985
+DZ,Algeria,Middle East & North Africa,Upper middle income,2010,1.61703E+11,36117637
+ES,Spain,Europe & Central Asia,High income,2010,1.43162E+12,46576897
+EE,Estonia,Europe & Central Asia,High income,2010,19490936349,1331475
+FI,Finland,Europe & Central Asia,High income,2010,2.4884E+11,5363352
+FR,France,Europe & Central Asia,High income,2010,2.64261E+12,65027507
+GB,United Kingdom,Europe & Central Asia,High income,2010,2.4529E+12,62766365
+GE,Georgia,Europe & Central Asia,Lower middle income,2010,11638536862,3786695
+GR,Greece,Europe & Central Asia,High income,2010,2.98002E+11,11121341
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2010,2.28638E+11,7024200
+HR,Croatia,Europe & Central Asia,High income,2010,59844207749,4295427
+HU,Hungary,Europe & Central Asia,High income,2010,1.30923E+11,10000023
+ID,Indonesia,East Asia & Pacific,Lower middle income,2010,7.55094E+11,242524123
+IE,Ireland,Europe & Central Asia,High income,2010,2.22134E+11,4560155
+IS,Iceland,Europe & Central Asia,High income,2010,13683689802,318041
+IL,Israel,Middle East & North Africa,High income,2010,2.33731E+11,7623600
+IT,Italy,Europe & Central Asia,High income,2010,2.12506E+12,59277417
+JO,Jordan,Middle East & North Africa,Upper middle income,2010,26425379437,7182390
+JP,Japan,East Asia & Pacific,High income,2010,5.7001E+12,128070000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2010,1.0945E+12,49554112
+XK,Kosovo,Europe & Central Asia,Lower middle income,2010,5830463576,1775680
+LB,Lebanon,Middle East & North Africa,Upper middle income,2010,38419626605,4337141
+LT,Lithuania,Europe & Central Asia,High income,2010,37120517694,3097282
+LU,Luxembourg,Europe & Central Asia,High income,2010,53212476812,506953
+LV,Latvia,Europe & Central Asia,High income,2010,23757368290,2097555
+MO,"Macao SAR, China",East Asia & Pacific,High income,2010,28123640999,536969
+MD,Moldova,Europe & Central Asia,Lower middle income,2010,5811604052,3562045
+MX,Mexico,Latin America & Caribbean,Upper middle income,2010,1.0578E+12,117318941
+MK,FYROM,Europe & Central Asia,Upper middle income,2010,9407168702,2070739
+MT,Malta,Middle East & North Africa,High income,2010,8746249964,414508
+ME,Montenegro,Europe & Central Asia,Upper middle income,2010,4139192053,619428
+NL,Netherlands,Europe & Central Asia,High income,2010,8.46555E+11,16615394
+NO,Norway,Europe & Central Asia,High income,2010,4.29131E+11,4889252
+NZ,New Zealand,East Asia & Pacific,High income,2010,1.46584E+11,4350700
+PE,Peru,Latin America & Caribbean,Upper middle income,2010,1.47529E+11,29373646
+PL,Poland,Europe & Central Asia,High income,2010,4.79258E+11,38042794
+PT,Portugal,Europe & Central Asia,High income,2010,2.38303E+11,10573100
+AR,Argentina,Latin America & Caribbean,High income,2010,4.23627E+11,41223889
+QA,Qatar,Middle East & North Africa,High income,2010,1.25122E+11,1779676
+CN,China,East Asia & Pacific,Upper middle income,2010,6.10062E+12,1337705000
+RO,Romania,Europe & Central Asia,Upper middle income,2010,1.66225E+11,20246871
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2010,1.52492E+12,142849449
+SG,Singapore,East Asia & Pacific,High income,2010,2.36422E+11,5076732
+SK,Slovak Republic,Europe & Central Asia,High income,2010,89501012916,5391428
+SI,Slovenia,Europe & Central Asia,High income,2010,47958963314,2048583
+SE,Sweden,Europe & Central Asia,High income,2010,4.88909E+11,9378126
+TH,Thailand,East Asia & Pacific,Upper middle income,2010,3.41105E+11,67208808
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2010,22157253321,1328100
+TN,Tunisia,Middle East & North Africa,Lower middle income,2010,44050929160,10639931
+TR,Turkey,Europe & Central Asia,Upper middle income,2010,7.71902E+11,72326914
+UY,Uruguay,Latin America & Caribbean,High income,2010,40284481652,3374415
+US,United States,North America,High income,2010,1.49921E+13,309326085
+VN,Vietnam,East Asia & Pacific,Lower middle income,2010,1.15932E+11,88472512
+AL,Albania,Europe & Central Asia,Upper middle income,2011,12890866743,2905195
+AE,United Arab Emirates,Middle East & North Africa,High income,2011,3.50666E+11,8672475
+AU,Australia,East Asia & Pacific,High income,2011,1.39428E+12,22340024
+AT,Austria,Europe & Central Asia,High income,2011,4.3112E+11,8391643
+BE,Belgium,Europe & Central Asia,High income,2011,5.27008E+11,11038264
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2011,57418414504,7348328
+BR,Brazil,Latin America & Caribbean,Upper middle income,2011,2.6162E+12,198686688
+CA,Canada,North America,High income,2011,1.78865E+12,34342780
+CH,Switzerland,Europe & Central Asia,High income,2011,6.9958E+11,7912398
+CL,Chile,Latin America & Caribbean,High income,2011,2.52252E+11,17153357
+CO,Colombia,Latin America & Caribbean,Upper middle income,2011,3.34454E+11,46406646
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2011,42262697840,4600474
+CZ,Czech Republic,Europe & Central Asia,High income,2011,2.27948E+11,10496088
+DE,Germany,Europe & Central Asia,High income,2011,3.7577E+12,80274983
+DK,Denmark,Europe & Central Asia,High income,2011,3.44003E+11,5570572
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2011,57811180659,10027095
+DZ,Algeria,Middle East & North Africa,Upper middle income,2011,2.00019E+11,36819558
+ES,Spain,Europe & Central Asia,High income,2011,1.48807E+12,46742697
+EE,Estonia,Europe & Central Asia,High income,2011,23170239901,1327439
+FI,Finland,Europe & Central Asia,High income,2011,2.73674E+11,5388272
+FR,France,Europe & Central Asia,High income,2011,2.86141E+12,65342775
+GB,United Kingdom,Europe & Central Asia,High income,2011,2.6349E+12,63258918
+GE,Georgia,Europe & Central Asia,Lower middle income,2011,14434619972,3756441
+GR,Greece,Europe & Central Asia,High income,2011,2.87798E+11,11104899
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2011,2.48514E+11,7071600
+HR,Croatia,Europe & Central Asia,High income,2011,62583915553,4280622
+HU,Hungary,Europe & Central Asia,High income,2011,1.40782E+11,9971727
+ID,Indonesia,East Asia & Pacific,Lower middle income,2011,8.92969E+11,245707511
+IE,Ireland,Europe & Central Asia,High income,2011,2.37571E+11,4580084
+IS,Iceland,Europe & Central Asia,High income,2011,15158548597,319014
+IL,Israel,Middle East & North Africa,High income,2011,2.61719E+11,7765800
+IT,Italy,Europe & Central Asia,High income,2011,2.27629E+12,59379449
+JO,Jordan,Middle East & North Africa,Upper middle income,2011,29007789148,7574943
+JP,Japan,East Asia & Pacific,High income,2011,6.1506E+12,127833000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2011,1.20246E+12,49936638
+XK,Kosovo,Europe & Central Asia,Lower middle income,2011,6668215046,1791000
+LB,Lebanon,Middle East & North Africa,Upper middle income,2011,40415100210,4588368
+LT,Lithuania,Europe & Central Asia,High income,2011,43476873413,3028115
+LU,Luxembourg,Europe & Central Asia,High income,2011,59753103081,518347
+LV,Latvia,Europe & Central Asia,High income,2011,28223552825,2059709
+MO,"Macao SAR, China",East Asia & Pacific,High income,2011,36709860068,549439
+MD,Moldova,Europe & Central Asia,Lower middle income,2011,7015206498,3559986
+MX,Mexico,Latin America & Caribbean,Upper middle income,2011,1.18049E+12,119090017
+MK,FYROM,Europe & Central Asia,Upper middle income,2011,10494632699,2072383
+MT,Malta,Middle East & North Africa,High income,2011,9505636642,416268
+ME,Montenegro,Europe & Central Asia,Upper middle income,2011,4525092177,620079
+NL,Netherlands,Europe & Central Asia,High income,2011,9.04086E+11,16693074
+NO,Norway,Europe & Central Asia,High income,2011,4.98832E+11,4953088
+NZ,New Zealand,East Asia & Pacific,High income,2011,1.68462E+11,4384000
+PE,Peru,Latin America & Caribbean,Upper middle income,2011,1.726E+11,29759989
+PL,Poland,Europe & Central Asia,High income,2011,5.28725E+11,38063255
+PT,Portugal,Europe & Central Asia,High income,2011,2.44895E+11,10557560
+AR,Argentina,Latin America & Caribbean,High income,2011,5.30163E+11,41656879
+QA,Qatar,Middle East & North Africa,High income,2011,1.67371E+11,1952054
+CN,China,East Asia & Pacific,Upper middle income,2011,7.57255E+12,1344130000
+RO,Romania,Europe & Central Asia,Upper middle income,2011,1.83443E+11,20147528
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2011,2.05166E+12,142960868
+SG,Singapore,East Asia & Pacific,High income,2011,2.75427E+11,5183688
+SK,Slovak Republic,Europe & Central Asia,High income,2011,98181259740,5398384
+SI,Slovenia,Europe & Central Asia,High income,2011,51290792018,2052843
+SE,Sweden,Europe & Central Asia,High income,2011,5.61041E+11,9449213
+TH,Thailand,East Asia & Pacific,Upper middle income,2011,3.70819E+11,67530130
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2011,25366520907,1334788
+TN,Tunisia,Middle East & North Africa,Lower middle income,2011,45810626509,10761467
+TR,Turkey,Europe & Central Asia,Upper middle income,2011,8.42241E+11,73409455
+UY,Uruguay,Latin America & Caribbean,High income,2011,47962439304,3385624
+US,United States,North America,High income,2011,1.56178E+13,311580009
+VN,Vietnam,East Asia & Pacific,Lower middle income,2011,1.35539E+11,89436644
+AL,Albania,Europe & Central Asia,Upper middle income,2012,12319784886,2900401
+AE,United Arab Emirates,Middle East & North Africa,High income,2012,3.74591E+11,8900453
+AU,Australia,East Asia & Pacific,High income,2012,1.54341E+12,22733465
+AT,Austria,Europe & Central Asia,High income,2012,4.09425E+11,8429991
+BE,Belgium,Europe & Central Asia,High income,2012,4.97884E+11,11106932
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2012,53903022339,7305888
+BR,Brazil,Latin America & Caribbean,Upper middle income,2012,2.46519E+12,200560983
+CA,Canada,North America,High income,2012,1.82429E+12,34750545
+CH,Switzerland,Europe & Central Asia,High income,2012,6.68044E+11,7996861
+CL,Chile,Latin America & Caribbean,High income,2012,2.67122E+11,17309746
+CO,Colombia,Latin America & Caribbean,Upper middle income,2012,3.70574E+11,46881475
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2012,46473128285,4654122
+CZ,Czech Republic,Europe & Central Asia,High income,2012,2.07585E+11,10510785
+DE,Germany,Europe & Central Asia,High income,2012,3.54398E+12,80425823
+DK,Denmark,Europe & Central Asia,High income,2012,3.27289E+11,5591572
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2012,60657780261,10154950
+DZ,Algeria,Middle East & North Africa,Upper middle income,2012,2.09059E+11,37565847
+ES,Spain,Europe & Central Asia,High income,2012,1.33654E+12,46773055
+EE,Estonia,Europe & Central Asia,High income,2012,23043864510,1322696
+FI,Finland,Europe & Central Asia,High income,2012,2.56706E+11,5413971
+FR,France,Europe & Central Asia,High income,2012,2.68383E+12,65659789
+GB,United Kingdom,Europe & Central Asia,High income,2012,2.67661E+12,63700300
+GE,Georgia,Europe & Central Asia,Lower middle income,2012,15636127693,3728874
+GR,Greece,Europe & Central Asia,High income,2012,2.45422E+11,11045011
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2012,2.62629E+11,7150100
+HR,Croatia,Europe & Central Asia,High income,2012,56548374546,4267558
+HU,Hungary,Europe & Central Asia,High income,2012,1.27857E+11,9920362
+ID,Indonesia,East Asia & Pacific,Lower middle income,2012,9.1787E+11,248883232
+IE,Ireland,Europe & Central Asia,High income,2012,2.24882E+11,4599533
+IS,Iceland,Europe & Central Asia,High income,2012,14724078264,320716
+IL,Israel,Middle East & North Africa,High income,2012,2.57436E+11,7910500
+IT,Italy,Europe & Central Asia,High income,2012,2.07282E+12,59539717
+JO,Jordan,Middle East & North Africa,Upper middle income,2012,30810319164,7992573
+JP,Japan,East Asia & Pacific,High income,2012,6.20321E+12,127629000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2012,1.22281E+12,50199853
+XK,Kosovo,Europe & Central Asia,Lower middle income,2012,6499935757,1805200
+LB,Lebanon,Middle East & North Africa,Upper middle income,2012,44047334184,4916404
+LT,Lithuania,Europe & Central Asia,High income,2012,42848195256,2987773
+LU,Luxembourg,Europe & Central Asia,High income,2012,56677961787,530946
+LV,Latvia,Europe & Central Asia,High income,2012,28119996053,2034319
+MO,"Macao SAR, China",East Asia & Pacific,High income,2012,43031577366,562531
+MD,Moldova,Europe & Central Asia,Lower middle income,2012,7284686576,3559519
+MX,Mexico,Latin America & Caribbean,Upper middle income,2012,1.20109E+12,120828307
+MK,FYROM,Europe & Central Asia,Upper middle income,2012,9745251126,2074036
+MT,Malta,Middle East & North Africa,High income,2012,9205742002,420028
+ME,Montenegro,Europe & Central Asia,Upper middle income,2012,4087724528,620601
+NL,Netherlands,Europe & Central Asia,High income,2012,8.38971E+11,16754962
+NO,Norway,Europe & Central Asia,High income,2012,5.1137E+11,5018573
+NZ,New Zealand,East Asia & Pacific,High income,2012,1.76193E+11,4408100
+PE,Peru,Latin America & Caribbean,Upper middle income,2012,1.92649E+11,30158966
+PL,Poland,Europe & Central Asia,High income,2012,5.00284E+11,38063164
+PT,Portugal,Europe & Central Asia,High income,2012,2.16368E+11,10514844
+AR,Argentina,Latin America & Caribbean,High income,2012,5.45982E+11,42096739
+QA,Qatar,Middle East & North Africa,High income,2012,1.86834E+11,2109568
+CN,China,East Asia & Pacific,Upper middle income,2012,8.56055E+12,1350695000
+RO,Romania,Europe & Central Asia,Upper middle income,2012,1.71196E+11,20058035
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2012,2.22021E+12,143201676
+SG,Singapore,East Asia & Pacific,High income,2012,2.90224E+11,5312437
+SK,Slovak Republic,Europe & Central Asia,High income,2012,93413992956,5407579
+SI,Slovenia,Europe & Central Asia,High income,2012,46352802766,2057159
+SE,Sweden,Europe & Central Asia,High income,2012,5.44482E+11,9519374
+TH,Thailand,East Asia & Pacific,Upper middle income,2012,3.97558E+11,67843979
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2012,25601811994,1341588
+TN,Tunisia,Middle East & North Africa,Lower middle income,2012,45044112939,10886668
+TR,Turkey,Europe & Central Asia,Upper middle income,2012,8.73982E+11,74569867
+UY,Uruguay,Latin America & Caribbean,High income,2012,51264390116,3396777
+US,United States,North America,High income,2012,1.6197E+13,313874218
+VN,Vietnam,East Asia & Pacific,Lower middle income,2012,1.5582E+11,90451881
+AL,Albania,Europe & Central Asia,Upper middle income,2013,12821529062,2895092
+AE,United Arab Emirates,Middle East & North Africa,High income,2013,3.90108E+11,9006263
+AU,Australia,East Asia & Pacific,High income,2013,1.5737E+12,23128129
+AT,Austria,Europe & Central Asia,High income,2013,4.30069E+11,8479823
+BE,Belgium,Europe & Central Asia,High income,2013,5.20925E+11,11159407
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2013,55555171010,7265115
+BR,Brazil,Latin America & Caribbean,Upper middle income,2013,2.47281E+12,202408632
+CA,Canada,North America,High income,2013,1.84263E+12,35152370
+CH,Switzerland,Europe & Central Asia,High income,2013,6.88504E+11,8089346
+CL,Chile,Latin America & Caribbean,High income,2013,2.76653E+11,17462982
+CO,Colombia,Latin America & Caribbean,Upper middle income,2013,3.82648E+11,47342981
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2013,49745088112,4706401
+CZ,Czech Republic,Europe & Central Asia,High income,2013,2.09402E+11,10514272
+DE,Germany,Europe & Central Asia,High income,2013,3.75251E+12,80645605
+DK,Denmark,Europe & Central Asia,High income,2013,3.43584E+11,5614932
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2013,62661773592,10281296
+DZ,Algeria,Middle East & North Africa,Upper middle income,2013,2.09755E+11,38338562
+ES,Spain,Europe & Central Asia,High income,2013,1.36135E+12,46620045
+EE,Estonia,Europe & Central Asia,High income,2013,25149300178,1317997
+FI,Finland,Europe & Central Asia,High income,2013,2.69239E+11,5438972
+FR,France,Europe & Central Asia,High income,2013,2.81108E+12,65998660
+GB,United Kingdom,Europe & Central Asia,High income,2013,2.75357E+12,64128226
+GE,Georgia,Europe & Central Asia,Lower middle income,2013,16140047042,3717668
+GR,Greece,Europe & Central Asia,High income,2013,2.39862E+11,10965211
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2013,2.76079E+11,7178900
+HR,Croatia,Europe & Central Asia,High income,2013,58147688052,4255689
+HU,Hungary,Europe & Central Asia,High income,2013,1.35221E+11,9893082
+ID,Indonesia,East Asia & Pacific,Lower middle income,2013,9.12524E+11,252032263
+IE,Ireland,Europe & Central Asia,High income,2013,2.3889E+11,4623816
+IS,Iceland,Europe & Central Asia,High income,2013,16033517529,323764
+IL,Israel,Middle East & North Africa,High income,2013,2.92914E+11,8059500
+IT,Italy,Europe & Central Asia,High income,2013,2.12745E+12,60233948
+JO,Jordan,Middle East & North Africa,Upper middle income,2013,33593843662,8413464
+JP,Japan,East Asia & Pacific,High income,2013,5.15572E+12,127445000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2013,1.31503E+12,50428893
+XK,Kosovo,Europe & Central Asia,Lower middle income,2013,7071959639,1824100
+LB,Lebanon,Middle East & North Africa,Upper middle income,2013,46471385850,5276102
+LT,Lithuania,Europe & Central Asia,High income,2013,46417340375,2957689
+LU,Luxembourg,Europe & Central Asia,High income,2013,61739352212,543360
+LV,Latvia,Europe & Central Asia,High income,2013,30254677297,2012647
+MO,"Macao SAR, China",East Asia & Pacific,High income,2013,51552075902,575841
+MD,Moldova,Europe & Central Asia,Lower middle income,2013,7985387152,3558566
+MX,Mexico,Latin America & Caribbean,Upper middle income,2013,1.27444E+12,122535969
+MK,FYROM,Europe & Central Asia,Upper middle income,2013,10817712139,2075739
+MT,Malta,Middle East & North Africa,High income,2013,10146688739,425967
+ME,Montenegro,Europe & Central Asia,Upper middle income,2013,4464261816,621207
+NL,Netherlands,Europe & Central Asia,High income,2013,8.76924E+11,16804432
+NO,Norway,Europe & Central Asia,High income,2013,5.23502E+11,5079623
+NZ,New Zealand,East Asia & Pacific,High income,2013,1.91199E+11,4442100
+PE,Peru,Latin America & Caribbean,Upper middle income,2013,2.01218E+11,30565716
+PL,Poland,Europe & Central Asia,High income,2013,5.24201E+11,38040196
+PT,Portugal,Europe & Central Asia,High income,2013,2.26073E+11,10457295
+AR,Argentina,Latin America & Caribbean,High income,2013,5.53796E+11,42539925
+QA,Qatar,Middle East & North Africa,High income,2013,1.98728E+11,2250473
+CN,China,East Asia & Pacific,Upper middle income,2013,9.60949E+12,1357380000
+RO,Romania,Europe & Central Asia,Upper middle income,2013,1.90949E+11,19983693
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2013,2.29713E+12,143506911
+SG,Singapore,East Asia & Pacific,High income,2013,3.04454E+11,5399162
+SK,Slovak Republic,Europe & Central Asia,High income,2013,98440862153,5413393
+SI,Slovenia,Europe & Central Asia,High income,2013,48189726423,2059953
+SE,Sweden,Europe & Central Asia,High income,2013,5.76777E+11,9600379
+TH,Thailand,East Asia & Pacific,Upper middle income,2013,4.20333E+11,68143065
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2013,26578524198,1348248
+TN,Tunisia,Middle East & North Africa,Lower middle income,2013,46251061734,11014558
+TR,Turkey,Europe & Central Asia,Upper middle income,2013,9.50579E+11,75787333
+UY,Uruguay,Latin America & Caribbean,High income,2013,57531233351,3408005
+US,United States,North America,High income,2013,1.67849E+13,316057727
+VN,Vietnam,East Asia & Pacific,Lower middle income,2013,1.71222E+11,91497725
+AL,Albania,Europe & Central Asia,Upper middle income,2014,13212484265,2889104
+AE,United Arab Emirates,Middle East & North Africa,High income,2014,4.03137E+11,9070867
+AU,Australia,East Asia & Pacific,High income,2014,1.46496E+12,23475686
+AT,Austria,Europe & Central Asia,High income,2014,4.41996E+11,8546356
+BE,Belgium,Europe & Central Asia,High income,2014,5.30808E+11,11209057
+BG,Bulgaria,Europe & Central Asia,Upper middle income,2014,56814543481,7223938
+BR,Brazil,Latin America & Caribbean,Upper middle income,2014,2.45599E+12,204213133
+CA,Canada,North America,High income,2014,1.79927E+12,35535348
+CH,Switzerland,Europe & Central Asia,High income,2014,7.09183E+11,8188649
+CL,Chile,Latin America & Caribbean,High income,2014,2.60584E+11,17613798
+CO,Colombia,Latin America & Caribbean,Upper middle income,2014,3.80892E+11,47791911
+CR,Costa Rica,Latin America & Caribbean,Upper middle income,2014,50577769838,4757575
+CZ,Czech Republic,Europe & Central Asia,High income,2014,2.07818E+11,10525347
+DE,Germany,Europe & Central Asia,High income,2014,3.89873E+12,80982500
+DK,Denmark,Europe & Central Asia,High income,2014,3.52994E+11,5643475
+DO,Dominican Republic,Latin America & Caribbean,Upper middle income,2014,65905990445,10405844
+DZ,Algeria,Middle East & North Africa,Upper middle income,2014,2.1381E+11,39113313
+ES,Spain,Europe & Central Asia,High income,2014,1.37691E+12,46480882
+EE,Estonia,Europe & Central Asia,High income,2014,26615854605,1314545
+FI,Finland,Europe & Central Asia,High income,2014,2.72609E+11,5461512
+FR,France,Europe & Central Asia,High income,2014,2.85686E+12,66316092
+GB,United Kingdom,Europe & Central Asia,High income,2014,2.99522E+12,64613160
+GE,Georgia,Europe & Central Asia,Lower middle income,2014,16382425271,3719414
+GR,Greece,Europe & Central Asia,High income,2014,2.3703E+11,10892413
+HK,"Hong Kong SAR, China",East Asia & Pacific,High income,2014,2.91459E+11,7229500
+HR,Croatia,Europe & Central Asia,High income,2014,57671307487,4238389
+HU,Hungary,Europe & Central Asia,High income,2014,1.40981E+11,9866468
+ID,Indonesia,East Asia & Pacific,Lower middle income,2014,8.90815E+11,255131116
+IE,Ireland,Europe & Central Asia,High income,2014,2.58075E+11,4657740
+IS,Iceland,Europe & Central Asia,High income,2014,17758089312,327386
+IL,Israel,Middle East & North Africa,High income,2014,3.1001E+11,8215700
+IT,Italy,Europe & Central Asia,High income,2014,2.15173E+12,60789140
+JO,Jordan,Middle East & North Africa,Upper middle income,2014,35716134370,8809306
+JP,Japan,East Asia & Pacific,High income,2014,4.85041E+12,127276000
+KR,"Korea, Rep.",East Asia & Pacific,High income,2014,1.41133E+12,50746659
+XK,Kosovo,Europe & Central Asia,Lower middle income,2014,7386891336,1821800
+LB,Lebanon,Middle East & North Africa,Upper middle income,2014,48524603055,5603279
+LT,Lithuania,Europe & Central Asia,High income,2014,48516371721,2932367
+LU,Luxembourg,Europe & Central Asia,High income,2014,66103853237,556319
+LV,Latvia,Europe & Central Asia,High income,2014,31469641689,1993782
+MO,"Macao SAR, China",East Asia & Pacific,High income,2014,55347998648,588781
+MD,Moldova,Europe & Central Asia,Lower middle income,2014,7983241044,3556397
+MX,Mexico,Latin America & Caribbean,Upper middle income,2014,1.31456E+12,124221600
+MK,FYROM,Europe & Central Asia,Upper middle income,2014,11362272838,2077495
+MT,Malta,Middle East & North Africa,High income,2014,11216758082,434558
+ME,Montenegro,Europe & Central Asia,Upper middle income,2014,4587926231,621810
+NL,Netherlands,Europe & Central Asia,High income,2014,8.90981E+11,16865008
+NO,Norway,Europe & Central Asia,High income,2014,4.99339E+11,5137232
+NZ,New Zealand,East Asia & Pacific,High income,2014,2.00955E+11,4509700
+PE,Peru,Latin America & Caribbean,Upper middle income,2014,2.01081E+11,30973354
+PL,Poland,Europe & Central Asia,High income,2014,5.45285E+11,38011735
+PT,Portugal,Europe & Central Asia,High income,2014,2.30643E+11,10401062
+AR,Argentina,Latin America & Caribbean,High income,2014,5.2632E+11,42981515
+QA,Qatar,Middle East & North Africa,High income,2014,2.06094E+11,2374419
+CN,China,East Asia & Pacific,Upper middle income,2014,1.04824E+13,1364270000
+RO,Romania,Europe & Central Asia,Upper middle income,2014,1.99627E+11,19908979
+RU,Russian Federation,Europe & Central Asia,Upper middle income,2014,2.09559E+12,143819666
+SG,Singapore,East Asia & Pacific,High income,2014,3.11539E+11,5469724
+SK,Slovak Republic,Europe & Central Asia,High income,2014,1.00948E+11,5418649
+SI,Slovenia,Europe & Central Asia,High income,2014,49779379184,2061980
+SE,Sweden,Europe & Central Asia,High income,2014,5.74413E+11,9696110
+TH,Thailand,East Asia & Pacific,Upper middle income,2014,4.07339E+11,68416772
+TT,Trinidad and Tobago,Latin America & Caribbean,High income,2014,27200280855,1354493
+TN,Tunisia,Middle East & North Africa,Lower middle income,2014,47632322068,11143908
+TR,Turkey,Europe & Central Asia,Upper middle income,2014,9.34186E+11,77030628
+UY,Uruguay,Latin America & Caribbean,High income,2014,57236013086,3419546
+US,United States,North America,High income,2014,1.75112E+13,318386421
+VN,Vietnam,East Asia & Pacific,Lower middle income,2014,1.86205E+11,92544915
